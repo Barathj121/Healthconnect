@@ -1,8 +1,11 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import Visits from "../components/Visits";
 import PortalPopup from "../components/PortalPopup";
 import { useNavigate } from "react-router-dom";
 import "./HealthRecordManagement.css";
+import { collection,getDocs ,query,where} from "firebase/firestore";
+import { db } from "../config/config";
+import { auth } from "../config/config";
 const HealthRecordManagement = () => {
   const [isVisitsOpen, setVisitsOpen] = useState(false);
   const navigate = useNavigate();
@@ -22,6 +25,39 @@ const HealthRecordManagement = () => {
   const closeVisits = useCallback(() => {
     setVisitsOpen(false);
   }, []);
+
+  const usercollectionref=collection(db,"Users");
+  const [userData, setUserData] = useState(null);
+  const fetchuserdata = async () => {
+    if (auth?.currentUser?.uid) {
+      const q = query(usercollectionref, where("UserId", "==", auth?.currentUser?.uid));
+      const querySnapshot = await getDocs(q);
+      const data = querySnapshot.docs.map((doc) => doc.data());
+      setUserData(data);
+    }
+  };
+  
+  useEffect(() => {
+    if (auth?.currentUser?.uid) {
+      fetchuserdata();
+    }
+  }, [auth?.currentUser?.uid]);
+  
+  // Assuming you have another useEffect to listen for changes in usercollectionref
+  useEffect(() => {
+    // Handle changes in usercollectionref here
+  }, [usercollectionref]);
+
+  const userName=userData?.[0]?.Name || "";
+  const userprofile=userData?.[0]?.dp || "";
+  const userage=userData?.[0]?.Age || "";
+  const userLoc=userData?.[0]?.City;
+  const epts=userData?.[0]?.Diagnoses ;
+  const rpts=userData?.[0]?.DOB;
+  const cid=userData?.[0]?.CommunityUser;
+  const med=userData?.[0]?.no_of_prescriptions;
+  const usersex=userData?.[0]?.sex;
+
 
   return (
     <>
@@ -151,16 +187,17 @@ const HealthRecordManagement = () => {
         <img className="image-148-icon" alt="" src="/image-148@2x.png" />
         <img className="image-149-icon" alt="" src="/image-149@2x.png" />
         <div className="health-record-management-child2" />
-        <b className="download-record">Download Record</b>
+        <input type="file" className="upload-record" />
+        <b className="download-record">upload Record</b>
         <div className="health-record-management-child3" />
         <img className="vector-icon" alt="" src="/vector.svg" />
         <img className="vector-icon1" alt="" src="/vector1.svg" />
-        <b className="jennifer-parkins">Jennifer Parkins</b>
-        <div className="female">Female</div>
+        <b className="jennifer-parkins">{userName||"None"}</b>
+        <div className="female">{usersex||"None"}</div>
         <b className="general-info">General info</b>
-        <div className="date-of-birth">Date of birth 15 May 1959 (76 y.o.)</div>
+        <div className="date-of-birth">Date of birth {rpts||"None"} ({userage||"null"} y.o.)</div>
         <div className="location-budapest-hungary">
-          Location Budapest, Hungary
+          Location {userLoc||"None"}
         </div>
         <div className="id">Id</div>
         <b className="disorders">Disorders</b>

@@ -18,6 +18,10 @@ const UserPerspective = () => {
   const onForumContainerClick = useCallback(() => {
     navigate("/community");
   }, [navigate]);
+  const eprescription = useCallback(() => {
+    navigate("/eprescription-management");
+  }, [navigate]);
+
 
   const onRecommendContainerClick = useCallback(() => {
     navigate("/appointment-search");
@@ -167,7 +171,7 @@ const UserPerspective = () => {
         </div>
         <img className="image-122-icon" alt="" src="/image-122@2x.png" />
         <img className="image-117-icon" alt="" src="/image-117@2x.png" />
-        <div className="prescription-mangae">
+        <div className="prescription-mangae" onClick={eprescription}>
           <div className="forum-child" />
           <img className="image-8-icon" alt="" src="/image-8@2x.png" />
           <div className="image-7" />

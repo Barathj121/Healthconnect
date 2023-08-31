@@ -748,3 +748,14 @@
   color: var(--color-black);
   font-family: var(--font-poppins);
 }
+.upload-record{
+  position:absolute;
+  top: 835px;
+  left: 280px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  border: 1px solid var(--color-black);
+  width: 200px;
+  border-radius: 5px;
+
+}

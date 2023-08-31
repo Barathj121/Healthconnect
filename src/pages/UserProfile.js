@@ -16,8 +16,8 @@ const UserProfile = () => {
  
 //fetch data only one time when signed in not infinite times
 
-  
 
+ 
   
 const fetchuserdata = async () => {
   if (auth?.currentUser?.uid) {
@@ -25,6 +25,9 @@ const fetchuserdata = async () => {
     const querySnapshot = await getDocs(q);
     const data = querySnapshot.docs.map((doc) => doc.data());
     setUserData(data);
+    alert("click on logo to go to homepage");
+    alert("click show more details to redirect to each page") ;
+  
   }
 };
 
@@ -77,6 +80,23 @@ useEffect(() => {
   const onRectangle3Click = useCallback(() => {
     navigate("/user-perspective");
   }, [navigate]);
+
+  const healthrecord = useCallback(() => {
+    navigate("/health-record-management");
+  }, [navigate]);
+  const prescirption = useCallback(() => { 
+    navigate("/eprescription-management");
+  }, [navigate]);
+  const community = useCallback(() => {
+    navigate("/community");
+  }, [navigate]);
+  const wellness = useCallback(() => {
+    navigate("/wellness-program");
+  }, [navigate]);
+  const personalhealth = useCallback(() => {
+    navigate("/personal-health-tracker");
+  }, [navigate]);
+
 
   return (
     <>
@@ -211,10 +231,10 @@ useEffect(() => {
             <b className="show-more">Edit</b>
           </div>
         </div>
-        <div className="rectangle-group">
+        <a href=""><div className="rectangle-group" onClick={prescirption} >
           <div className="instance-item" />
-          <b className="show-more1">Show More Detail</b>
-        </div>
+          <b className="show-more1" >Show More Detail</b>
+        </div></a>
         <div className="edit">
           <div className="prescirption-child" />
           <b className="welcome-username1">Welcome  {userName}</b>
@@ -235,13 +255,13 @@ useEffect(() => {
           <b className="dr-ravindar-has">
             Dr. Ravindar has updated your record....
           </b>
-          <div className="rectangle-parent2">
+          <a href=""><div className="rectangle-parent2" onClick={healthrecord}>
             <div className="instance-item" />
-            <b className="show-more1">Show Full Details</b>
-          </div>
+            <b className="show-more1" >Show Full Details</b>
+          </div></a>
         </div>
         <img className="user-profile-item" alt="" src="/group-45.svg" />
-        <div className="wellness">
+        <div className="wellness" >
           <div className="wellness-child" />
           <div className="wellness-item" />
           <img className="image-18-icon1" alt="" src="/image-181@2x.png" />
@@ -253,10 +273,10 @@ useEffect(() => {
           <b className="points1">Points</b>
           <b className="wellness-reward-program">Wellness Reward Program</b>
           <img className="image-17-icon1" alt="" src="/image-171@2x.png" />
-          <div className="rectangle-parent3">
+          <a href=""><div className="rectangle-parent3" onClick={wellness}>
             <div className="instance-item" />
             <b className="show-more1">Show More..</b>
-          </div>
+          </div></a>
           <div className="rectangle-parent4">
             <div className="instance-item" />
             <b className="show-more1">
@@ -268,8 +288,8 @@ useEffect(() => {
         <b className="personal-health-tracker">Personal Health Tracker</b>
         <img className="image-12-icon1" alt="" src="/image-121@2x.png" />
         <div className="div">
-          <img className="child" alt="" src="/rectangle-1.svg" />
-          <div className="item" />
+          <img className="childprogress" alt="" src="/rectangle-1.svg" />
+          <div className="itemprogress" />
         </div>
         <b className="completed">76% completed</b>
         <div className="user-profile-child1" />
@@ -280,12 +300,12 @@ useEffect(() => {
             <p className="community">Set New Plan</p>
           </b>
         </div>
-        <div className="rectangle-parent6">
+        <a href=""><div className="rectangle-parent6" onClick={personalhealth}>
           <div className="instance-item" />
           <b className="show-more1">Show More..</b>
-        </div>
+        </div></a>
         <div className="user-profile-child2" />
-        <b className="community1">Community</b>
+        <a href=""><b className="community1" onClick={community}>Community</b></a>
         <img className="image-13-icon1" alt="" src="/image-131@2x.png" />
         <b className="userame-shadox">USername:{cid||"None"}</b>
         <b className="tier-basic">{`Tier                                            Basic `}</b>

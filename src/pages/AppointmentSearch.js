@@ -1,12 +1,18 @@
-import { useCallback } from "react";
+import { useCallback,useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./AppointmentSearch.css";
+import Dropdown from '../components/Dropdown';
 const AppointmentSearch = () => {
   const navigate = useNavigate();
+  const [selectedValue, setSelectedValue] = useState(''); // State to store 
 
   const onSearchBarContainerClick = useCallback(() => {
-    navigate("/appointment-scheduling");
+    navigate('/appointment-scheduling');
   }, [navigate]);
+
+  const handleDropdownSelect = (value) => {
+    setSelectedValue(value); // Store selected dropdown value in state
+  };  
 
   return (
     <div className="appointment-search">
@@ -54,27 +60,53 @@ const AppointmentSearch = () => {
         />
       </div>
       <img className="image-9-icon13" alt="" src="/image-9@2x.png" />
-      <div className="search-bar5" onClick={onSearchBarContainerClick}>
+      <div className="search-bar5">
         <div className="search-bar-child8" />
+        <div className="city-dd" onClick={onSearchBarContainerClick} >
+        <Dropdown
+            options={['CBE', 'CHE', 'TVN']} 
+            onSelect={handleDropdownSelect}
+          />
+      </div>
         <img className="search-icon6" alt="" src="/search.svg" />
         <div className="search-bar-child9" />
         <img className="pin-icon5" alt="" src="/pin.svg" />
-        <i className="cbe5">CBE</i>
       </div>
       <div className="appointments">
         <div className="appointments-child" />
-        <i className="appointments1">Appointments</i>
-        <i className="k2">21.4K</i>
-        <img
-          className="icon-icofont-medical-cro"
-          alt=""
-          src="/icon--icofont--medical--cross--first-aid.svg"
+        <div className="slots-dd" >
+      <Dropdown
+          options={['Morning', 'Evening', 'Night']} 
+          onSelect={handleDropdownSelect}
         />
       </div>
-      <div className="appointment-search-child" />
-      <div className="appointment-search-item" />
+        
+      </div>
+      <div className="appointment-search-child" >
+      <div className="rating-dd" >
+      <Dropdown
+          options={['Morning', 'Evening', 'Night']} 
+          onSelect={handleDropdownSelect}
+        />
+      </div>
+      </div>
+      <div className="appointment-search-item" >
+      <div className="Price-dd" >
+      <Dropdown
+          options={['Morning', 'Evening', 'Night']} 
+          onSelect={handleDropdownSelect}
+        />
+      </div>
+      </div>
       <div className="rectangle-parent22">
-        <div className="instance-child5" />
+        <div className="instance-child5">
+        <div className="videoconslt-dd" >
+      <Dropdown
+          options={['Morning', 'Evening', 'Night']} 
+          onSelect={handleDropdownSelect}
+        />
+      </div>
+        </div>
         <img
           className="icon-icofont-web-bank1"
           alt=""
@@ -85,7 +117,14 @@ const AppointmentSearch = () => {
         </i>
         <i className="income1">Income</i>
       </div>
-      <div className="appointment-search-inner" />
+      <div className="appointment-search-inner">
+      <div className="experience-dd" >
+      <Dropdown
+          options={['Morning', 'Evening', 'Night']} 
+          onSelect={handleDropdownSelect}
+        />
+      </div>
+      </div>
       <div className="footer36">
         <div className="footer37" />
         <div className="footer-9-dark12">
@@ -141,11 +180,12 @@ const AppointmentSearch = () => {
           </div>
         </div>
       </div>
-      <i className="time-slot">Time Slot</i>
-      <i className="rating">{`Rating `}</i>
+      <i className="time-slot">Time slots</i>
+      <i className="rating">Rating </i>
       <i className="price">Price</i>
       <i className="experience14">Experience</i>
       <i className="video-conslt">Video Conslt</i>
+      
     </div>
   );
 };

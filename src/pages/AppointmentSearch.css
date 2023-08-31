@@ -592,3 +592,40 @@
   color: var(--white);
   font-family: var(--font-inter);
 }
+.city-dd{
+  position: relative;
+  top: 1px;
+  left:80px;
+  z-index: 1;
+}
+
+.slots-dd{
+  position: relative;
+  top: 75px;
+  left:10px;
+  z-index: 1;
+}
+.rating-dd{
+  position: relative;
+  top: 75px;
+  left:100px;
+  z-index: 1;
+}
+.Price-dd{
+  position: relative;
+  top: 75px;
+  left:100px;
+  z-index: 1;
+}
+.experience-dd{
+  position: relative;
+  top: 75px;
+  left:100px;
+  z-index: 1;
+}
+.videoconslt-dd{
+  position: relative;
+  top: 75px;
+  left:6px;
+  z-index: 1;
+}

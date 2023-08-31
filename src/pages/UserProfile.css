@@ -13,6 +13,19 @@
   height: 778px;
 
 }
+a{
+  text-decoration: none;
+  color: var(--color-black);
+}
+.childprogress,
+.itemprogress{
+  position: absolute;
+  top: 700px;
+  left: 500px;
+  border-radius: var(--br-81xl);
+  width: 248px;
+  height: 20px;
+}
 .background,
 .footer1 {
   position: absolute;
@@ -835,7 +848,7 @@
   width: 248px;
   height: 20px;
 }
-.item {
+.itemprogress {
   background-color: var(--color-palegreen);
   width: 184px;
 }

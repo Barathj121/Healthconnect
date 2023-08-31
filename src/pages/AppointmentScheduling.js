@@ -1,9 +1,16 @@
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import CalendarPopup from "../components/CalendarPopup";
+import { getDocs,collection,addDoc, deleteDoc,doc, updateDoc,query,where,getDoc } from "firebase/firestore";
+import { db } from "../config/config";
 import PortalPopup from "../components/PortalPopup";
 import { useNavigate } from "react-router-dom";
 import "./AppointmentScheduling.css";
+
 const AppointmentScheduling = () => {
+
+  const doctorcollectionref=collection(db,"Doctors");
+  const [DoctorData, setDoctorData] = useState([]);
+
   const [isCalendarPopupOpen, setCalendarPopupOpen] = useState(false);
   const navigate = useNavigate();
 
@@ -22,6 +29,23 @@ const AppointmentScheduling = () => {
   const closeCalendarPopup = useCallback(() => {
     setCalendarPopupOpen(false);
   }, []);
+
+  const fetchdoctordata = async () => {
+      const q = query(doctorcollectionref);
+      const querySnapshot = await getDocs(q);
+      const data = querySnapshot.docs.map((doc) => doc.data());
+      setDoctorData(data);
+  };
+
+  useEffect(() => {
+    getDocs(query(doctorcollectionref)).then((querySnapshot) => {
+        const data = querySnapshot.docs.map((doc) => doc.data());
+        setDoctorData(data);
+      });
+    },[]);
+
+
+    console.log(DoctorData.length);
 
   return (
     <>
@@ -92,114 +116,52 @@ const AppointmentScheduling = () => {
         <div className="sort-by">Sort By</div>
         <div className="appointment-scheduling-child4" />
         <div className="doctors-available-in">
-          301 doctors available in Coimbatore
+          <span>{DoctorData.length}</span> doctors available in Coimbatore
         </div>
         <div className="book-appointments-with-container">
           <p className="book-appointments-with">{`Book appointments with minimum wait time and &  verified doctor details`}</p>
         </div>
-        <div className="dentist">Dentist</div>
-        <div className="dentist1">Dentist</div>
-        <div className="dentist2">Dentist</div>
-        <div className="dentist3">Dentist</div>
-        <div className="consultation-fee-at">
-          ₹300 Consultation fee at clinic
-        </div>
-        <div className="consultation-fee-at1">
-          ₹300 Consultation fee at clinic
-        </div>
-        <div className="consultation-fee-at2">
-          ₹300 Consultation fee at clinic
-        </div>
-        <div className="consultation-fee-at3">
-          ₹300 Consultation fee at clinic
-        </div>
-        <div className="patient-stories">56 patient stories</div>
-        <div className="patient-stories1">56 patient stories</div>
-        <div className="patient-stories2">56 patient stories</div>
-        <div className="patient-stories3">56 patient stories</div>
-        <div className="race-coursecoimbatore-container">
-          <span className="race-coursecoimbatore">Race course,Coimbatore</span>
-          <span className="kongu-nadu-hospitals"> - Kongu nadu hospitals</span>
-        </div>
-        <div className="race-coursecoimbatore-container1">
-          <span className="race-coursecoimbatore">Race course,Coimbatore</span>
-          <span className="kongu-nadu-hospitals"> - Kongu nadu hospitals</span>
-        </div>
-        <div className="race-coursecoimbatore-container2">
-          <span className="race-coursecoimbatore">Race course,Coimbatore</span>
-          <span className="kongu-nadu-hospitals"> - Kongu nadu hospitals</span>
-        </div>
-        <div className="race-coursecoimbatore-container3">
-          <span className="race-coursecoimbatore">Race course,Coimbatore</span>
-          <span className="kongu-nadu-hospitals"> - Kongu nadu hospitals</span>
-        </div>
-        <div className="years-of-overall">20 years of overall experience</div>
-        <div className="years-of-overall1">20 years of overall experience</div>
-        <div className="years-of-overall2">20 years of overall experience</div>
-        <div className="years-of-overall3">20 years of overall experience</div>
-        <div className="line-div" />
-        <div className="appointment-scheduling-child5" />
-        <div className="appointment-scheduling-child6" />
-        <div className="appointment-scheduling-child7" />
-        <img className="image-22-icon2" alt="" src="/image-22@2x.png" />
-        <img className="image-23-icon2" alt="" src="/image-22@2x.png" />
-        <img className="image-24-icon2" alt="" src="/image-22@2x.png" />
-        <img className="image-25-icon1" alt="" src="/image-22@2x.png" />
-        <div className="dr-t-sivasankari">Dr. T. Sivasankari</div>
-        <div className="dr-t-sivasankari1">Dr. T. Sivasankari</div>
-        <div className="dr-t-sivasankari2">Dr. T. Sivasankari</div>
-        <div className="dr-t-sivasankari3">Dr. T. Sivasankari</div>
-        <img className="calendar-icon" alt="" src="/calendar.svg" />
-        <img className="calendar-icon1" alt="" src="/calendar.svg" />
-        <img className="calendar-icon2" alt="" src="/calendar.svg" />
-        <img className="calendar-icon3" alt="" src="/calendar.svg" />
-        <div className="available-today">Available Today</div>
-        <div className="available-today1">Available Today</div>
-        <div className="available-today2">Available Today</div>
-        <div className="available-today3">Available Today</div>
-        <div className="appointment-scheduling-child8" />
-        <div className="appointment-scheduling-child9" />
-        <div className="appointment-scheduling-child10" />
-        <div
-          className="appointment-scheduling-child11"
-          onClick={onRectangle12Click}
-        />
-        <div className="appointment-scheduling-child12" />
-        <div className="appointment-scheduling-child13" />
-        <div className="rectangle-parent23" onClick={openCalendarPopup}>
-          <div className="component-child1" />
-          <div className="book-appointment">Book Appointment</div>
-          <div className="no-booking-fee">No Booking Fee</div>
-        </div>
-        <div className="book-appointment1">Book Appointment</div>
-        <div className="book-appointment2">Book Appointment</div>
-        <div className="book-appointment3">Book Appointment</div>
-        <div className="video-consult1">Video Consult</div>
-        <div className="video-consult2">Video Consult</div>
-        <div className="video-consult3">Video Consult</div>
-        <div className="no-booking-fee1">No Booking Fee</div>
-        <div className="no-booking-fee2">No Booking Fee</div>
-        <div className="no-booking-fee3">No Booking Fee</div>
-        <div className="rectangle-parent24">
-          <div className="group-child20" />
-          <div className="div1">100%</div>
-          <img className="vector-icon8" alt="" src="/vector8.svg" />
-        </div>
-        <div className="rectangle-parent25">
-          <div className="group-child20" />
-          <div className="div1">100%</div>
-          <img className="vector-icon8" alt="" src="/vector8.svg" />
-        </div>
-        <div className="rectangle-parent26">
-          <div className="group-child20" />
-          <div className="div1">100%</div>
-          <img className="vector-icon8" alt="" src="/vector8.svg" />
-        </div>
-        <div className="rectangle-parent27">
-          <div className="group-child20" />
-          <div className="div1">100%</div>
-          <img className="vector-icon8" alt="" src="/vector8.svg" />
-        </div>
+              <div className="doctors-container">
+        {DoctorData.map((doctor, index) => (
+          <div key={index} className="doctor-card">
+            <div className="doctor-details">
+              <div className="dentist">{doctor.designation}</div>
+              <div className="consultation-fee-at">
+                ₹{doctor.consultationFee} Consultation fee at clinic
+              </div>
+              <div className="patient-stories">{doctor.patientStories} patient stories</div>
+              <div className="race-coursecoimbatore-container">
+                <span className="race-coursecoimbatore">{doctor.location}</span>
+                <span className="kongu-nadu-hospitals"> - {doctor.hospitals}</span>
+              </div>
+              <div className="years-of-overall">{doctor.experience} years of overall experience</div>
+            </div>
+            <div className="doctor-image">
+              <img className="image-22-icon2" alt="" src={doctor.img_src} />
+              <div className="dr-t-sivasankari">{doctor.name}</div>
+            </div>
+            <div className="calendar-section">
+              <img className="calendar-icon" alt="" src="/calendar.svg" />
+              <div className="available-today">Available Today</div>
+            </div>
+            <div className="actions">
+              <div className="appointment-scheduling-child11" onClick={onRectangle12Click} />
+              <div className="rectangle-parent23" onClick={openCalendarPopup}>
+                <div className="component-child1" />
+                <div className="book-appointment">Book Appointment</div>
+                <div className="no-booking-fee">No Booking Fee</div>
+              </div>
+              <div className="video-consult1">Video Consult</div>
+              <div className="rectangle-parent24">
+                <div className="group-child20" />
+                <div className="div1">100%</div>
+                <img className="vector-icon8" alt="" src="/vector8.svg" />
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+
       </div>
       {isCalendarPopupOpen && (
         <PortalPopup

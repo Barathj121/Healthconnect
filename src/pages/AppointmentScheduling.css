@@ -5,6 +5,31 @@
   width: 1427px;
   height: 1739px;
 }
+
+/* Keep your existing CSS rules */
+
+.doctors-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; /* Allow items to wrap to the next line */
+  gap: 250px; /* Add some gap between items */
+}
+
+.doctor-card {
+  position: relative;
+  top : 1000px;
+  right: 20px;
+  background-color: #f0f0f000;
+  border: 1px solid #cccccc00;
+  padding: 20px;
+  box-sizing: border-box;
+  width: calc(33.33% - 40px); /* Adjust width and spacing as needed */
+  left:500px;
+}
+
+/* Add media queries as needed for responsive design */
+
+
 .chatbot-child5 {
   position: absolute;
   height: 100%;
