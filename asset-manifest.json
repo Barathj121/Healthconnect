@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0a35a7f.css",
-    "main.js": "/static/js/main.621fb418.js",
-    "index.html": "/index.html",
-    "main.d0a35a7f.css.map": "/static/css/main.d0a35a7f.css.map",
-    "main.621fb418.js.map": "/static/js/main.621fb418.js.map"
+    "main.css": "/Healthconnect/static/css/main.d0a35a7f.css",
+    "main.js": "/Healthconnect/static/js/main.e90b0a67.js",
+    "index.html": "/Healthconnect/index.html",
+    "main.d0a35a7f.css.map": "/Healthconnect/static/css/main.d0a35a7f.css.map",
+    "main.e90b0a67.js.map": "/Healthconnect/static/js/main.e90b0a67.js.map"
   },
   "entrypoints": [
     "static/css/main.d0a35a7f.css",
-    "static/js/main.621fb418.js"
+    "static/js/main.e90b0a67.js"
   ]
 }
