@@ -1,0 +1,551 @@
+.navbar-child20,
+.navbar-child21 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child20 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child21 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community11 {
+  margin: 0;
+}
+.community-forum9 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon10,
+.image-11-icon9 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon10 {
+  left: 243px;
+}
+.schedule-appointment9,
+.support-ngos9 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos9 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon11 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container9 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon10 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container9 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon10 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart9 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon10 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram9 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon11 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.loginsignup9 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon10 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience9,
+.rewards9 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience9 {
+  left: 1025px;
+}
+.healthcare-low-resolution-logo-icon9,
+.image-19-icon10 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthcare-low-resolution-logo-icon9 {
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  cursor: pointer;
+}
+.navbar9 {
+  position: absolute;
+  top: calc(50% - 1015.5px);
+  left: calc(50% - 712px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.image-9-icon9 {
+  position: absolute;
+  top: calc(50% - 883.5px);
+  left: calc(50% - 676px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.background8,
+.footer25 {
+  position: absolute;
+  left: 0;
+}
+.footer25 {
+  height: 107.35%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gainsboro);
+}
+.background8 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 529px;
+}
+.poltica-de-privacidad8 {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.poltica-de-privacidad-parent5 {
+  position: absolute;
+  height: 7.29%;
+  width: 45.79%;
+  top: 92.71%;
+  right: 0;
+  bottom: 0;
+  left: 54.21%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.iconlink8,
+.icontwitter8 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlink8 {
+  display: none;
+}
+.icontwitter-parent6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.divider8,
+.footer26 {
+  position: absolute;
+  height: 6.94%;
+  width: 9.36%;
+  top: 93.03%;
+  right: 90.64%;
+  bottom: 0.03%;
+  left: 0;
+}
+.divider8 {
+  height: 0.28%;
+  width: 99.53%;
+  top: 87.5%;
+  right: 0.33%;
+  bottom: 12.22%;
+  left: 0.14%;
+  background-color: var(--white);
+  opacity: 0.25;
+}
+.empresa17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.insights8,
+.sobre-nosotros8,
+.soluciones8 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.insights8,
+.soluciones8 {
+  top: 125px;
+}
+.insights8 {
+  top: 186px;
+}
+.empresa16 {
+  position: absolute;
+  top: 38.64px;
+  left: 362.42px;
+  width: 96px;
+  height: 207px;
+}
+.categoras17 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.categoras16,
+.competencias-digitales-parent6 {
+  position: absolute;
+  height: 71.83%;
+  width: 17.42%;
+  top: 0;
+  right: 30.73%;
+  bottom: 28.17%;
+  left: 51.85%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.competencias-digitales-parent6 {
+  height: 49.62%;
+  width: 16.11%;
+  top: 20.1%;
+  right: 8.31%;
+  bottom: 30.28%;
+  left: 75.58%;
+}
+.footer-9-dark8,
+.footer-ui8 {
+  position: absolute;
+  height: 67.24%;
+  width: 74.94%;
+  top: 14.32%;
+  right: 12.46%;
+  bottom: 18.44%;
+  left: 12.6%;
+}
+.footer-9-dark8 {
+  height: 106.87%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.footer24 {
+  position: absolute;
+  top: calc(50% + 609.5px);
+  left: calc(50% - 712px);
+  width: 1425px;
+  height: 401px;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  color: var(--white);
+  font-family: var(--b3-14);
+}
+.group-child16 {
+  position: absolute;
+  top: calc(50% - 114.5px);
+  left: calc(50% - 245.14px);
+  border-radius: 43px;
+  background: conic-gradient(
+    from -85.52deg at 50% 50%,
+    rgba(6, 89, 89, 0) 0deg,
+    rgba(24, 74, 74, 0.44) 217.5deg,
+    #000 360deg
+  );
+  width: 490.29px;
+  height: 229px;
+}
+.image-28-icon1,
+.personal-health-tracker-inner {
+  position: absolute;
+  top: calc(50% - 771.5px);
+  left: calc(50% + 229px);
+  width: 490.29px;
+  height: 229px;
+}
+.image-28-icon1 {
+  left: calc(50% + 229.29px);
+  border-radius: 37px;
+  width: 200px;
+  object-fit: cover;
+}
+.goal,
+.set {
+  position: absolute;
+  top: calc(50% - 750.5px);
+  left: calc(50% + 474px);
+  letter-spacing: -0.02em;
+  background: linear-gradient(180deg, #219b85, #181e21);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 188px;
+}
+.goal {
+  top: calc(50% - 671.5px);
+  left: calc(50% + 510px);
+}
+.group-child17 {
+  position: absolute;
+  top: calc(50% - 72px);
+  left: calc(50% - 145.5px);
+  border-radius: var(--br-3xl);
+  background-color: var(--color-gainsboro-300);
+  width: 291px;
+  height: 144px;
+}
+.time {
+  top: calc(50% - 10px);
+  left: calc(50% - 17.5px);
+  letter-spacing: 0.01em;
+}
+.m,
+.time,
+.watch-icon {
+  position: absolute;
+}
+.m {
+  top: calc(50% + 13px);
+  left: calc(50% - 30.5px);
+  font-size: var(--font-size-10xl);
+  letter-spacing: 0.01em;
+  font-weight: 800;
+  display: inline-block;
+  width: 89px;
+  height: 30px;
+}
+.watch-icon {
+  top: calc(50% - 53px);
+  left: calc(50% - 15.5px);
+  width: 33px;
+  height: 32px;
+  overflow: hidden;
+}
+.personal-health-tracker-child,
+.rectangle-parent18 {
+  position: absolute;
+  top: calc(50% - 72px);
+  left: calc(50% - 145.5px);
+  width: 291px;
+  height: 144px;
+}
+.personal-health-tracker-child {
+  top: calc(50% - 664.5px);
+  left: calc(50% - 713px);
+  font-size: var(--font-size-mini);
+}
+.distance {
+  top: calc(50% - 10px);
+  left: calc(50% - 30.5px);
+  letter-spacing: 0.01em;
+}
+.distance,
+.km,
+.zap-icon {
+  position: absolute;
+}
+.km {
+  top: calc(50% + 13px);
+  left: calc(50% - 33.5px);
+  font-size: var(--font-size-10xl);
+  letter-spacing: 0.01em;
+  font-weight: 800;
+  display: inline-block;
+  width: 89px;
+  height: 30px;
+}
+.zap-icon {
+  top: calc(50% - 47px);
+  left: calc(50% - 12.5px);
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.personal-health-tracker-inner1 {
+  position: absolute;
+  top: calc(50% - 664.5px);
+  left: calc(50% - 373px);
+  width: 291px;
+  height: 144px;
+  font-size: var(--font-size-mini);
+}
+.energy-burnt,
+.kcal {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: calc(50% - 46.5px);
+  letter-spacing: 0.01em;
+}
+.kcal {
+  top: calc(50% + 13px);
+  left: calc(50% - 55.5px);
+  font-size: var(--font-size-10xl);
+  font-weight: 800;
+}
+.personal-health-tracker-inner2 {
+  position: absolute;
+  top: calc(50% - 469.5px);
+  left: calc(50% - 547px);
+  width: 291px;
+  height: 144px;
+  font-size: var(--font-size-mini);
+}
+.daily-fitness-tracking {
+  position: absolute;
+  top: calc(50% - 781.5px);
+  left: calc(50% - 712px);
+  letter-spacing: 0.01em;
+  color: var(--color-black);
+}
+.image-27-icon1,
+.image-29-icon1 {
+  position: absolute;
+  top: calc(50% - 463.5px);
+  left: calc(50% + 230px);
+  width: 560px;
+  height: 893px;
+  object-fit: cover;
+}
+.image-29-icon1 {
+  top: calc(50% - 146.5px);
+  left: calc(50% - 588px);
+  border-radius: 57px;
+  width: 581px;
+  height: 484px;
+}
+.personal-health-tracker1 {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2021px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-53xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-poppins);
+}

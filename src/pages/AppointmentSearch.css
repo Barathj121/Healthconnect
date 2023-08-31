@@ -1,0 +1,594 @@
+.navbar-child30,
+.navbar-child31 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child30 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child31 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community15 {
+  margin: 0;
+}
+.community-forum13 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon14,
+.image-11-icon13 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon14 {
+  left: 243px;
+}
+.schedule-appointment13,
+.support-ngos13 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos13 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon15 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container13 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon14 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container13 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon14 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart13 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon14 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram13 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon16 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.loginsignup13 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon15 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience13,
+.rewards13 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience13 {
+  left: 1025px;
+}
+.healthcare-low-resolution-logo-icon13,
+.image-19-icon15 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthcare-low-resolution-logo-icon13 {
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+}
+.navbar13 {
+  position: absolute;
+  top: calc(50% - 1022.5px);
+  left: calc(50% - 712px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-9-icon13 {
+  position: absolute;
+  top: calc(50% - 890.5px);
+  left: calc(50% - 676px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.search-bar-child8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--white);
+}
+.search-icon6 {
+  position: absolute;
+  top: 5px;
+  left: 179px;
+  width: 34px;
+  height: 34px;
+}
+.search-bar-child9 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  background-color: var(--white);
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 141px;
+  height: 52px;
+  mix-blend-mode: darken;
+}
+.cbe5,
+.pin-icon5 {
+  position: absolute;
+  top: 5px;
+  left: 24px;
+  width: 32px;
+  height: 42px;
+}
+.cbe5 {
+  top: 11px;
+  left: 94px;
+  display: inline-block;
+  font-weight: 800;
+  width: 47px;
+  height: 36px;
+}
+.search-bar5 {
+  position: absolute;
+  top: calc(50% - 798.5px);
+  left: calc(50% - 376px);
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 732px;
+  height: 52px;
+  cursor: pointer;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.appointments-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-crimson);
+  border: 1px solid var(--color-gray-1000);
+  box-sizing: border-box;
+}
+.appointments1,
+.k2 {
+  position: absolute;
+  top: 49px;
+  left: 75px;
+  display: none;
+  font-weight: 700;
+  width: 170px;
+  height: 35px;
+}
+.k2 {
+  top: 19px;
+  left: 96px;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+  color: var(--white);
+  width: 84px;
+  height: 25px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.icon-icofont-medical-cro {
+  position: absolute;
+  top: calc(50% - 19.5px);
+  left: 37px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  display: none;
+}
+.appointment-search-child,
+.appointments {
+  top: calc(50% - 683.5px);
+  width: 263px;
+  height: 123px;
+}
+.appointments {
+  position: absolute;
+  left: calc(50% - 660px);
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-mistyrose);
+}
+.appointment-search-child {
+  left: calc(50% - 387px);
+  background-color: var(--color-mediumslateblue);
+}
+.appointment-search-child,
+.appointment-search-item,
+.instance-child5 {
+  position: absolute;
+  border-radius: var(--br-21xl);
+}
+.appointment-search-item {
+  top: calc(50% - 683.5px);
+  left: calc(50% - 114px);
+  background-color: var(--color-orange);
+  width: 263px;
+  height: 123px;
+}
+.instance-child5 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-cadetblue);
+}
+.icon-icofont-web-bank1 {
+  top: calc(50% - 25.5px);
+  left: 33px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.icon-icofont-web-bank1,
+.income1,
+.k3 {
+  position: absolute;
+  display: none;
+}
+.k3 {
+  top: 16px;
+  left: 104px;
+  font-weight: 800;
+  width: 96px;
+  height: 28px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.income1 {
+  top: 45px;
+  left: 53px;
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  color: var(--color-mistyrose);
+  width: 170px;
+  height: 25px;
+}
+.appointment-search-inner,
+.rectangle-parent22 {
+  position: absolute;
+  top: calc(50% - 683.5px);
+  width: 263px;
+  height: 123px;
+}
+.rectangle-parent22 {
+  left: calc(50% + 432px);
+  text-align: center;
+  font-size: var(--font-size-3xl);
+}
+.appointment-search-inner {
+  left: calc(50% + 159px);
+  border-radius: var(--br-21xl);
+  background-color: var(--color-cornflowerblue);
+}
+.footer37 {
+  position: absolute;
+  height: 107.35%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.background12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 529px;
+}
+.poltica-de-privacidad12 {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.poltica-de-privacidad-parent9 {
+  position: absolute;
+  height: 7.29%;
+  width: 45.79%;
+  top: 92.71%;
+  right: 0;
+  bottom: 0;
+  left: 54.21%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.iconlink12,
+.icontwitter12 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlink12 {
+  display: none;
+}
+.icontwitter-parent10 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.divider12,
+.footer38 {
+  position: absolute;
+  height: 6.94%;
+  width: 9.36%;
+  top: 93.03%;
+  right: 90.64%;
+  bottom: 0.03%;
+  left: 0;
+}
+.divider12 {
+  height: 0.28%;
+  width: 99.53%;
+  top: 87.5%;
+  right: 0.33%;
+  bottom: 12.22%;
+  left: 0.14%;
+  background-color: var(--white);
+  opacity: 0.25;
+}
+.empresa25 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.insights12,
+.sobre-nosotros12,
+.soluciones12 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.insights12,
+.soluciones12 {
+  top: 125px;
+}
+.insights12 {
+  top: 186px;
+}
+.empresa24 {
+  position: absolute;
+  top: 38.64px;
+  left: 362.42px;
+  width: 96px;
+  height: 207px;
+}
+.categoras25 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.categoras24,
+.competencias-digitales-parent10 {
+  position: absolute;
+  height: 71.83%;
+  width: 17.42%;
+  top: 0;
+  right: 30.73%;
+  bottom: 28.17%;
+  left: 51.85%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.competencias-digitales-parent10 {
+  height: 49.62%;
+  width: 16.11%;
+  top: 20.1%;
+  right: 8.31%;
+  bottom: 30.28%;
+  left: 75.58%;
+}
+.footer-9-dark12,
+.footer-ui12 {
+  position: absolute;
+  height: 67.24%;
+  width: 74.94%;
+  top: 14.32%;
+  right: 12.46%;
+  bottom: 18.44%;
+  left: 12.6%;
+}
+.footer-9-dark12 {
+  height: 106.87%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.footer36 {
+  position: absolute;
+  top: calc(50% - 287.5px);
+  left: calc(50% - 707px);
+  width: 1425px;
+  height: 401px;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  font-family: var(--b3-14);
+}
+.experience14,
+.price,
+.rating,
+.time-slot,
+.video-conslt {
+  position: absolute;
+  top: calc(50% - 644.5px);
+  left: calc(50% - 600px);
+  line-height: 150%;
+  font-weight: 700;
+}
+.experience14,
+.price,
+.rating,
+.video-conslt {
+  top: calc(50% - 645.5px);
+  left: calc(50% - 302px);
+}
+.experience14,
+.price,
+.video-conslt {
+  left: calc(50% - 21px);
+}
+.experience14,
+.video-conslt {
+  top: calc(50% - 644.5px);
+  left: calc(50% + 212px);
+}
+.video-conslt {
+  left: calc(50% + 458px);
+}
+.appointment-search {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2035px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-12xl);
+  color: var(--white);
+  font-family: var(--font-inter);
+}

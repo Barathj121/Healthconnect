@@ -1,0 +1,1354 @@
+.appointments-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-crimson);
+  border: 1px solid var(--color-gray-1000);
+  box-sizing: border-box;
+}
+.appointments3,
+.k5 {
+  position: absolute;
+  top: 49px;
+  left: 75px;
+  display: inline-block;
+  font-weight: 700;
+  width: 170px;
+  height: 35px;
+}
+.k5 {
+  top: 19px;
+  left: 96px;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+  color: var(--white);
+  width: 84px;
+  height: 25px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.icon-icofont-medical-cro1 {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: 37px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.appointments2 {
+  position: absolute;
+  top: calc(50% - 804.5px);
+  left: calc(50% - 692px);
+  width: 255px;
+  height: 88px;
+  color: var(--color-mistyrose);
+}
+.patients-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-mediumslateblue);
+}
+.icon-icofont-medical-hum {
+  position: absolute;
+  top: calc(50% - 20px);
+  left: 42px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.k7 {
+  margin: 0;
+}
+.k6,
+.patients1 {
+  position: absolute;
+  display: inline-block;
+}
+.k6 {
+  top: 16px;
+  left: 97px;
+  font-weight: 800;
+  width: 96px;
+  height: 28px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.patients1 {
+  top: 44px;
+  left: 52px;
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  color: var(--color-mistyrose);
+  width: 170px;
+  height: 25px;
+}
+.patients {
+  position: absolute;
+  top: calc(50% - 799.5px);
+  left: calc(50% - 427px);
+  width: 255px;
+  height: 88px;
+  font-size: var(--font-size-3xl);
+}
+.doctor-profile-page-child {
+  top: calc(50% - 804.5px);
+  left: calc(50% - 157px);
+  background-color: var(--color-orange);
+  width: 255px;
+  height: 88px;
+}
+.component-child2,
+.doctor-profile-page-child,
+.doctor-profile-page-item {
+  position: absolute;
+  border-radius: var(--br-21xl);
+}
+.doctor-profile-page-item {
+  top: calc(50% - 804.5px);
+  left: calc(50% + 113px);
+  background-color: var(--color-cornflowerblue);
+  width: 255px;
+  height: 88px;
+}
+.component-child2 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-cadetblue);
+}
+.icon-icofont-web-bank2 {
+  position: absolute;
+  top: calc(50% - 26px);
+  left: 33px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.income2,
+.k8 {
+  position: absolute;
+  display: inline-block;
+}
+.k8 {
+  top: 16px;
+  left: 104px;
+  font-weight: 800;
+  width: 96px;
+  height: 28px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.income2 {
+  top: 45px;
+  left: 53px;
+  font-size: var(--font-size-base);
+  font-weight: 700;
+  color: var(--color-mistyrose);
+  width: 170px;
+  height: 25px;
+}
+.k10,
+.rectangle-parent28 {
+  position: absolute;
+  top: calc(50% - 804.5px);
+  left: calc(50% + 383px);
+  width: 255px;
+  height: 88px;
+  font-size: var(--font-size-3xl);
+}
+.k10 {
+  top: calc(50% - 788.5px);
+  left: calc(50% - 71px);
+  display: inline-block;
+  font-weight: 800;
+  width: 96px;
+  height: 28px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.d-ico-07-icon,
+.d-ico-15-icon {
+  position: absolute;
+  top: calc(50% - 781.3px);
+  left: calc(50% + 151.47px);
+  width: 37.07px;
+  height: 39.6px;
+}
+.d-ico-07-icon {
+  top: calc(50% - 781.39px);
+  left: calc(50% - 122.68px);
+  width: 35.46px;
+  height: 38.77px;
+}
+.clinic-consulting {
+  top: calc(50% - 759.5px);
+  left: calc(50% - 78px);
+  font-weight: 700;
+  color: var(--color-mistyrose);
+  width: 170px;
+  height: 25px;
+}
+.clinic-consulting,
+.k12,
+.online-consulting31 {
+  position: absolute;
+  display: inline-block;
+}
+.k12 {
+  top: calc(50% - 788.5px);
+  left: calc(50% + 205px);
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+  width: 96px;
+  height: 28px;
+  text-shadow: 10px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.online-consulting31 {
+  top: calc(50% - 759.5px);
+  left: calc(50% + 201px);
+  font-weight: 700;
+  color: var(--color-mistyrose);
+  width: 170px;
+  height: 25px;
+}
+.navbar-child37,
+.navbar-child38 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child37 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child38 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community-forum16 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon17,
+.image-11-icon16 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon17 {
+  left: 243px;
+}
+.schedule-appointment16,
+.support-ngos16 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos16 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon18 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container16 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon17 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container16 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon17 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart16 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon17 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram16 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon19 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.loginsignup16 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon18 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience17,
+.rewards16 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience17 {
+  left: 1025px;
+}
+.image-19-icon18 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.navbar-child39 {
+  position: absolute;
+  top: 12px;
+  left: 7px;
+  background-color: var(--color-lightseagreen-100);
+  width: 146px;
+  height: 63px;
+}
+.healthcare-low-resolution-logo-icon16,
+.image-9-icon17 {
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  object-fit: cover;
+}
+.image-9-icon17 {
+  top: 124px;
+  left: 40px;
+  width: 40px;
+  height: 40px;
+}
+.navbar16 {
+  position: absolute;
+  top: calc(50% - 1017.5px);
+  left: calc(50% - 713px);
+  width: 1425px;
+  height: 172px;
+  text-align: left;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-9-icon18 {
+  position: absolute;
+  top: calc(50% - 893.5px);
+  left: calc(50% - 673px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.lefttable-child {
+  position: absolute;
+  height: 73.08%;
+  width: 150.31%;
+  top: 0;
+  right: -50.31%;
+  bottom: 26.92%;
+  left: 0;
+  background-color: var(--color-aliceblue);
+}
+.recent-patients {
+  position: absolute;
+  height: 8.76%;
+  width: 99.69%;
+  top: 0.31%;
+  left: 0.31%;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  display: inline-block;
+  color: var(--color-black);
+  text-align: center;
+}
+.avatar-circled-woman-012,
+.avatar-circled-woman-022 {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-woman-022 {
+  top: 180px;
+}
+.avatar-circled-woman-032,
+.avatar-circled-woman-042 {
+  position: absolute;
+  top: 292px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-woman-042 {
+  top: 404px;
+}
+.avatar-circled-woman-052,
+.avatar-circled-woman-062 {
+  position: absolute;
+  top: 516px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-woman-062 {
+  top: 628px;
+}
+.avatar-circled-woman-072,
+.avatar-circled-woman-082 {
+  position: absolute;
+  top: 740px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-woman-082 {
+  top: 852px;
+}
+.avatar-circled-woman-092,
+.avatar-circled-woman-102 {
+  position: absolute;
+  top: 964px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-woman-102 {
+  top: 1076px;
+}
+.avatar-circled-man-012,
+.avatar-circled-man-022 {
+  position: absolute;
+  top: 124px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-man-022 {
+  top: 236px;
+}
+.avatar-circled-man-032,
+.avatar-circled-man-042 {
+  position: absolute;
+  top: 348px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-man-042 {
+  top: 460px;
+}
+.avatar-circled-man-052,
+.avatar-circled-man-062 {
+  position: absolute;
+  top: 572px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-man-062 {
+  top: 684px;
+}
+.avatar-circled-man-072,
+.avatar-circled-man-082 {
+  position: absolute;
+  top: 796px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-man-082 {
+  top: 908px;
+}
+.avatar-circled-man-092,
+.avatar-circled-man-102 {
+  position: absolute;
+  top: 1020px;
+  left: 0;
+  width: 32px;
+  height: 32px;
+}
+.avatar-circled-man-102 {
+  top: 1132px;
+}
+.name {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.table-elements-columns-lar2 {
+  position: absolute;
+  height: 52.58%;
+  width: 9.88%;
+  top: 12.83%;
+  right: 81.79%;
+  bottom: 34.59%;
+  left: 8.33%;
+  overflow: hidden;
+  font-family: var(--body-2-regular-14-20-01px);
+}
+.name1 {
+  position: absolute;
+  top: 14.87%;
+  left: 8.33%;
+  font-size: var(--font-size-xl);
+}
+.column-011,
+.column-021,
+.name1,
+.title1 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.title1 {
+  position: absolute;
+  width: 100%;
+  top: 19px;
+  left: 0;
+  display: none;
+}
+.column-011,
+.column-021 {
+  display: inline-block;
+}
+.column-011 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.column-021 {
+  top: 56px;
+}
+.column-021,
+.column-031,
+.column-041 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-031 {
+  top: 112px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-041 {
+  top: 168px;
+}
+.column-041,
+.column-051,
+.column-061 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-051 {
+  position: absolute;
+  width: 100%;
+  top: 224px;
+  left: 0;
+}
+.column-061 {
+  top: 280px;
+}
+.column-061,
+.column-071,
+.column-081 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-071 {
+  top: 336px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-081 {
+  top: 392px;
+}
+.column-081,
+.column-091,
+.column-101 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-091 {
+  position: absolute;
+  width: 100%;
+  top: 448px;
+  left: 0;
+}
+.column-101 {
+  top: 504px;
+}
+.column-101,
+.column-111,
+.column-121 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-111 {
+  top: 560px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-121 {
+  top: 616px;
+}
+.column-121,
+.column-131,
+.column-141 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-131 {
+  position: absolute;
+  width: 100%;
+  top: 672px;
+  left: 0;
+}
+.column-141 {
+  top: 728px;
+}
+.column-141,
+.column-151,
+.column-161 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-151 {
+  top: 784px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-161 {
+  top: 840px;
+}
+.column-161,
+.column-171,
+.column-181 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-171 {
+  position: absolute;
+  width: 100%;
+  top: 896px;
+  left: 0;
+}
+.column-181 {
+  top: 952px;
+}
+.column-181,
+.column-191,
+.column-201 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-191 {
+  top: 1008px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-201 {
+  top: 1064px;
+}
+.column-201,
+.column-211,
+.column-221 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-211 {
+  position: absolute;
+  width: 100%;
+  top: 1120px;
+  left: 0;
+}
+.column-221 {
+  top: 1176px;
+}
+.column-221,
+.column-231,
+.column-241 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-231 {
+  top: 1232px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-241 {
+  top: 1288px;
+}
+.column-241,
+.column-251,
+.column-261 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-251 {
+  position: absolute;
+  width: 100%;
+  top: 1344px;
+  left: 0;
+}
+.column-261 {
+  top: 1400px;
+}
+.column-261,
+.column-271,
+.column-281 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-271 {
+  top: 1456px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-281 {
+  top: 1512px;
+}
+.column-281,
+.column-291,
+.column-301 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-291 {
+  position: absolute;
+  width: 100%;
+  top: 1568px;
+  left: 0;
+}
+.column-301 {
+  top: 1624px;
+}
+.column-301,
+.column-311,
+.column-321 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-311 {
+  top: 1680px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-321 {
+  top: 1736px;
+}
+.column-321,
+.column-331,
+.column-341 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-331 {
+  position: absolute;
+  width: 100%;
+  top: 1792px;
+  left: 0;
+}
+.column-341 {
+  top: 1848px;
+}
+.column-341,
+.column-351,
+.column-361 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-351 {
+  top: 1904px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-361 {
+  top: 1960px;
+}
+.column-361,
+.column-371,
+.column-381 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column-371 {
+  position: absolute;
+  width: 100%;
+  top: 2016px;
+  left: 0;
+}
+.column-381 {
+  top: 2072px;
+}
+.column-381,
+.column-391,
+.column1 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-391 {
+  top: 2128px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+}
+.column1 {
+  top: 74px;
+  right: 0;
+  height: 2148px;
+}
+.table-elements-columns-lar3 {
+  position: absolute;
+  height: 52.58%;
+  width: 55.56%;
+  top: 12.83%;
+  right: 18.52%;
+  bottom: 34.59%;
+  left: 25.93%;
+  overflow: hidden;
+  font-family: var(--body-2-regular-14-20-01px);
+}
+.lefttable-child1,
+.lefttable-child2,
+.lefttable-child3,
+.lefttable-inner,
+.lefttable-item {
+  position: absolute;
+  height: 5.01%;
+  width: 66.36%;
+  top: 23.47%;
+  right: -41.05%;
+  bottom: 71.52%;
+  left: 74.69%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-lightblue);
+  box-shadow: 5px 4px 4px 2px rgba(0, 0, 0, 0.25);
+}
+.lefttable-child1,
+.lefttable-child2,
+.lefttable-child3,
+.lefttable-inner {
+  top: 32.24%;
+  bottom: 62.75%;
+}
+.lefttable-child1,
+.lefttable-child2,
+.lefttable-child3 {
+  top: 41%;
+  bottom: 53.99%;
+}
+.lefttable-child2,
+.lefttable-child3 {
+  top: 49.77%;
+  bottom: 45.23%;
+}
+.lefttable-child3 {
+  top: 58.53%;
+  right: -41.36%;
+  bottom: 36.46%;
+  left: 75%;
+}
+.column-012,
+.column-022 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.column-012 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-family: var(--font-poppins);
+  display: inline-block;
+}
+.column-022 {
+  top: 56px;
+}
+.column-022,
+.column-032,
+.column-042 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  font-family: var(--font-poppins);
+  display: inline-block;
+}
+.column-032 {
+  top: 112px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.column-042 {
+  top: 168px;
+}
+.column-042,
+.column-052,
+.column-062 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+}
+.column-052 {
+  position: absolute;
+  width: 100%;
+  top: 224px;
+  left: 0;
+  font-family: var(--font-poppins);
+  display: inline-block;
+}
+.column-062 {
+  top: 280px;
+  display: none;
+}
+.column-062,
+.column-072,
+.column-082 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-072 {
+  top: 336px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-082 {
+  top: 392px;
+}
+.column-082,
+.column-092,
+.column-102 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-092 {
+  position: absolute;
+  width: 100%;
+  top: 448px;
+  left: 0;
+}
+.column-102 {
+  top: 504px;
+}
+.column-102,
+.column-112,
+.column-122 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-112 {
+  top: 560px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-122 {
+  top: 616px;
+}
+.column-122,
+.column-132,
+.column-142 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-132 {
+  position: absolute;
+  width: 100%;
+  top: 672px;
+  left: 0;
+}
+.column-142 {
+  top: 728px;
+}
+.column-142,
+.column-152,
+.column-162 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-152 {
+  top: 784px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-162 {
+  top: 840px;
+}
+.column-162,
+.column-172,
+.column-182 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-172 {
+  position: absolute;
+  width: 100%;
+  top: 896px;
+  left: 0;
+}
+.column-182 {
+  top: 952px;
+}
+.column-182,
+.column-192,
+.column-202 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-192 {
+  top: 1008px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-202 {
+  top: 1064px;
+}
+.column-202,
+.column-212,
+.column-222 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-212 {
+  position: absolute;
+  width: 100%;
+  top: 1120px;
+  left: 0;
+}
+.column-222 {
+  top: 1176px;
+}
+.column-222,
+.column-232,
+.column-242 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-232 {
+  top: 1232px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-242 {
+  top: 1288px;
+}
+.column-242,
+.column-252,
+.column-262 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-252 {
+  position: absolute;
+  width: 100%;
+  top: 1344px;
+  left: 0;
+}
+.column-262 {
+  top: 1400px;
+}
+.column-262,
+.column-272,
+.column-282 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-272 {
+  top: 1456px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-282 {
+  top: 1512px;
+}
+.column-282,
+.column-292,
+.column-302 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-292 {
+  position: absolute;
+  width: 100%;
+  top: 1568px;
+  left: 0;
+}
+.column-302 {
+  top: 1624px;
+}
+.column-302,
+.column-312,
+.column-322 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-312 {
+  top: 1680px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-322 {
+  top: 1736px;
+}
+.column-322,
+.column-332,
+.column-342 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-332 {
+  position: absolute;
+  width: 100%;
+  top: 1792px;
+  left: 0;
+}
+.column-342 {
+  top: 1848px;
+}
+.column-342,
+.column-352,
+.column-362 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-352 {
+  top: 1904px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-362 {
+  top: 1960px;
+}
+.column-362,
+.column-372,
+.column-382 {
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column-372 {
+  position: absolute;
+  width: 100%;
+  top: 2016px;
+  left: 0;
+}
+.column-382 {
+  top: 2072px;
+}
+.column-382,
+.column-392,
+.column2 {
+  position: absolute;
+  width: 100%;
+  left: 0;
+}
+.column-392 {
+  top: 2128px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: none;
+}
+.column2 {
+  top: 74px;
+  right: 0;
+  height: 244px;
+}
+.table-elements-columns-lar4 {
+  position: absolute;
+  height: 52.58%;
+  width: 63.58%;
+  top: 12.83%;
+  right: -41.05%;
+  bottom: 34.59%;
+  left: 77.47%;
+  overflow: hidden;
+  font-family: var(--body-2-regular-14-20-01px);
+}
+.show-all {
+  position: absolute;
+  height: 6.73%;
+  width: 40.43%;
+  top: 66.35%;
+  left: 7.72%;
+  text-decoration: underline;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  display: inline-block;
+  color: var(--color-black);
+  text-shadow: 3px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.lefttable {
+  position: absolute;
+  top: calc(50% - 638.5px);
+  left: calc(50% - 713px);
+  box-shadow: 4px 7px 4px rgba(0, 0, 0, 0.25);
+  width: 324px;
+  height: 639px;
+  text-align: left;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  color: var(--neutral-black);
+  font-family: var(--font-poppins);
+}
+.image-21-icon2 {
+  position: absolute;
+  top: calc(50% - 641.5px);
+  left: calc(50% + 136px);
+  width: 515px;
+  height: 723px;
+  object-fit: cover;
+}
+.doctor-profile-page {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2035px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--white);
+  font-family: var(--font-inter);
+}

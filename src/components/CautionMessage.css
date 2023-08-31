@@ -1,0 +1,17 @@
+.image-141-icon {
+  position: absolute;
+  top: 58px;
+  left: 0;
+  width: 1045px;
+  height: 811px;
+  object-fit: cover;
+}
+.caution-message {
+  position: relative;
+  background-color: var(--white);
+  width: 1045px;
+  height: 928px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+}

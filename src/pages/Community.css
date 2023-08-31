@@ -1,0 +1,915 @@
+.navbar-child16,
+.navbar-child17 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child16 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child17 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community-forum7 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon7,
+.image-11-icon7 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon7 {
+  left: 243px;
+}
+.schedule-appointment7,
+.support-ngos7 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos7 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon8 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container7 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon8 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container7 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon7 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart7 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon8 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram7 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon8 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.loginsignup7 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon8 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience7,
+.rewards7 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience7 {
+  left: 1025px;
+}
+.healthcare-low-resolution-logo-icon7,
+.image-19-icon8 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthcare-low-resolution-logo-icon7 {
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  cursor: pointer;
+}
+.navbar7 {
+  position: absolute;
+  top: calc(50% - 1383px);
+  left: calc(50% - 712px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.image-9-icon7 {
+  position: absolute;
+  top: calc(50% - 1251px);
+  left: calc(50% - 676px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.community-child {
+  position: absolute;
+  top: calc(50% - 1012px);
+  left: calc(50% - 572px);
+  border-radius: var(--br-11xs);
+  background-color: var(--color-gainsboro-500);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+.image-22-icon,
+.image-23-icon,
+.image-24-icon {
+  position: absolute;
+  top: calc(50% - 539px);
+  left: calc(50% - 633px);
+  border-radius: var(--br-81xl);
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.image-23-icon,
+.image-24-icon {
+  top: calc(50% - 170px);
+  left: calc(50% - 636px);
+}
+.image-24-icon {
+  top: calc(50% + 190px);
+}
+.community-item {
+  position: absolute;
+  top: calc(50% - 893px);
+  left: calc(50% - 712px);
+  background-color: var(--color-lightblue);
+  width: 332px;
+  height: 1841px;
+}
+.image-2-icon,
+.image-4-icon {
+  position: absolute;
+  top: calc(50% - 312px);
+  left: calc(50% - 685px);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-2-icon {
+  top: calc(50% - 628px);
+}
+.feeds,
+.home,
+.popular,
+.pregnancy {
+  position: absolute;
+  display: inline-block;
+  width: 197px;
+  height: 76px;
+}
+.feeds {
+  top: calc(50% - 757px);
+  left: calc(50% - 685px);
+  font-size: var(--font-size-11xl);
+}
+.home,
+.popular,
+.pregnancy {
+  top: calc(50% - 688px);
+  left: calc(50% - 615px);
+}
+.popular,
+.pregnancy {
+  top: calc(50% - 606px);
+}
+.pregnancy {
+  top: calc(50% - 298px);
+}
+.gestational-diabetes,
+.preeclampsia,
+.pregnancy-lossmiscarriage,
+.preterm-labor,
+.stillbirth {
+  position: absolute;
+  top: calc(50% - 245px);
+  left: calc(50% - 615px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 197px;
+  height: 76px;
+}
+.preeclampsia,
+.pregnancy-lossmiscarriage,
+.preterm-labor,
+.stillbirth {
+  top: calc(50% - 208px);
+}
+.pregnancy-lossmiscarriage,
+.preterm-labor,
+.stillbirth {
+  top: calc(50% - 102px);
+}
+.pregnancy-lossmiscarriage,
+.stillbirth {
+  top: calc(50% - 59px);
+}
+.pregnancy-lossmiscarriage {
+  top: calc(50% - 170px);
+}
+.image-1-icon,
+.topics {
+  position: absolute;
+  left: calc(50% - 685px);
+}
+.image-1-icon {
+  top: calc(50% - 706px);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.topics {
+  top: calc(50% - 375px);
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 161px;
+  height: 83px;
+}
+.community-inner {
+  position: absolute;
+  top: calc(50% - 1076px);
+  left: calc(50% - 712px);
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: var(--color-lightseagreen-100);
+  width: 1425px;
+  height: 183px;
+}
+.community-child1 {
+  position: absolute;
+  top: calc(50% - 1016px);
+  left: calc(50% - 475px);
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-aliceblue);
+  width: 1052px;
+  height: 63px;
+}
+.image-3-icon {
+  position: absolute;
+  top: calc(50% - 1003px);
+  left: calc(50% - 380px);
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.search-community {
+  position: absolute;
+  top: calc(50% - 994px);
+  left: calc(50% - 312px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 224px;
+  height: 45px;
+}
+.image-26-icon1 {
+  position: absolute;
+  top: calc(50% - 298px);
+  left: calc(50% - 440px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-34-icon,
+.image-35-icon,
+.image-36-icon {
+  position: absolute;
+  top: calc(50% - 759px);
+  left: calc(50% - 347px);
+  border-radius: var(--br-xl);
+  width: 250px;
+  height: 166.6px;
+  object-fit: cover;
+}
+.image-35-icon,
+.image-36-icon {
+  left: calc(50% + 429px);
+  height: 167px;
+}
+.image-36-icon {
+  left: calc(50% + 32px);
+  width: 268px;
+}
+.trending-today {
+  position: absolute;
+  top: calc(50% - 852px);
+  left: calc(50% - 332px);
+  font-size: var(--font-size-13xl);
+  color: #c32f2f;
+  display: inline-block;
+  width: 437px;
+  height: 52px;
+}
+.community-child2 {
+  position: absolute;
+  top: calc(50% - 788.5px);
+  left: calc(50% - 367.5px);
+  border-radius: var(--br-11xl);
+  width: 1077px;
+  height: 382px;
+}
+.ways-to-find {
+  color: var(--color-black);
+}
+.new-skin-rashes-container,
+.symptoms-for-heart-container {
+  position: absolute;
+  top: calc(50% - 570px);
+  left: calc(50% - 343px);
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 270px;
+  height: 108px;
+  color: #ff16f6;
+}
+.new-skin-rashes-container {
+  left: calc(50% + 41px);
+  height: 140px;
+  color: #00ff75;
+}
+.pre-mature-baby {
+  color: var(--color-red);
+}
+.pre-mature-baby-what-is-the-re {
+  margin: 0;
+}
+.more,
+.pre-mature-baby-what-container {
+  position: absolute;
+  top: calc(50% - 576px);
+  left: calc(50% + 425px);
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 270px;
+  height: 140px;
+}
+.more {
+  top: calc(50% - 21px);
+  left: calc(50% - 576px);
+  font-size: var(--font-size-xl);
+  width: 119px;
+  height: 59px;
+}
+.image-35-icon1 {
+  position: absolute;
+  top: calc(50% - 25px);
+  left: calc(50% - 615px);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.birth,
+.cancer,
+.heart,
+.more-topics,
+.skin,
+.weight {
+  position: absolute;
+  top: calc(50% + 37px);
+  left: calc(50% - 615px);
+  display: inline-block;
+  width: 197px;
+  height: 76px;
+}
+.birth,
+.heart,
+.more-topics,
+.skin,
+.weight {
+  top: calc(50% + 119px);
+}
+.birth,
+.more-topics,
+.skin,
+.weight {
+  top: calc(50% + 195px);
+}
+.birth,
+.more-topics,
+.skin {
+  top: calc(50% + 277px);
+}
+.more-topics,
+.skin {
+  top: calc(50% + 353px);
+}
+.more-topics {
+  top: calc(50% + 427px);
+}
+.image-6-icon {
+  position: absolute;
+  top: calc(50% + 25px);
+  left: calc(50% - 685px);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-27-icon,
+.image-28-icon,
+.image-29-icon,
+.image-30-icon,
+.image-31-icon,
+.image-32-icon {
+  position: absolute;
+  top: calc(50% + 37px);
+  left: calc(50% - 440px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-28-icon,
+.image-29-icon,
+.image-30-icon,
+.image-31-icon,
+.image-32-icon {
+  top: calc(50% + 115px);
+}
+.image-29-icon,
+.image-30-icon,
+.image-31-icon,
+.image-32-icon {
+  top: calc(50% + 193px);
+}
+.image-30-icon,
+.image-31-icon,
+.image-32-icon {
+  top: calc(50% + 271px);
+}
+.image-31-icon,
+.image-32-icon {
+  top: calc(50% + 349px);
+}
+.image-32-icon {
+  top: calc(50% + 425px);
+  left: calc(50% - 444px);
+}
+.image-47-icon,
+.image-49-icon,
+.image-50-icon,
+.image-51-icon,
+.image-52-icon {
+  position: absolute;
+  top: calc(50% + 181px);
+  left: calc(50% - 685px);
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+}
+.image-49-icon,
+.image-50-icon,
+.image-51-icon,
+.image-52-icon {
+  top: calc(50% + 103px);
+}
+.image-50-icon,
+.image-51-icon,
+.image-52-icon {
+  top: calc(50% + 259px);
+}
+.image-51-icon,
+.image-52-icon {
+  top: calc(50% + 337px);
+}
+.image-52-icon {
+  top: calc(50% + 420px);
+  left: calc(50% - 680px);
+  width: 45px;
+  height: 45px;
+}
+.community-child3 {
+  position: absolute;
+  top: calc(50% - 365px);
+  left: calc(50% - 172px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.25);
+  width: 720px;
+  height: 442px;
+}
+.what-scary-images-container {
+  position: absolute;
+  top: calc(50% - 315px);
+  left: calc(50% - 139px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 672px;
+}
+.image-72-icon,
+.image-73-icon {
+  position: absolute;
+  top: calc(50% - 162px);
+  left: calc(50% - 0px);
+  width: 329px;
+  height: 186.5px;
+  object-fit: cover;
+}
+.image-73-icon {
+  top: calc(50% + 45px);
+  left: calc(50% - 22px);
+  width: 30px;
+  height: 30px;
+}
+.community-child4 {
+  position: absolute;
+  top: calc(50% + 42.5px);
+  left: calc(50% - 171px);
+  width: 718.5px;
+  height: 1px;
+}
+.image-74-icon,
+.image-75-icon,
+.image-76-icon {
+  position: absolute;
+  top: calc(50% + 45px);
+  left: calc(50% - 82px);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-75-icon,
+.image-76-icon {
+  left: calc(50% - 148px);
+}
+.image-76-icon {
+  top: calc(50% - 350px);
+  left: calc(50% - 139px);
+  width: 100px;
+  height: 21.26px;
+}
+.community-child5 {
+  position: absolute;
+  top: calc(50% + 181px);
+  left: calc(50% - 172px);
+  border-radius: var(--br-xl);
+  background-color: var(--color-aliceblue);
+  box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.25);
+  width: 720px;
+  height: 442px;
+}
+.what-are-the-container {
+  position: absolute;
+  top: calc(50% + 231px);
+  left: calc(50% - 139px);
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 672px;
+}
+.image-79-icon {
+  position: absolute;
+  top: calc(50% + 591px);
+  left: calc(50% - 22px);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.community-child6 {
+  position: absolute;
+  top: calc(50% + 588.5px);
+  left: calc(50% - 171px);
+  width: 718.5px;
+  height: 1px;
+}
+.image-80-icon,
+.image-81-icon {
+  position: absolute;
+  top: calc(50% + 591px);
+  left: calc(50% - 82px);
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-81-icon {
+  left: calc(50% - 148px);
+}
+.community-child7 {
+  position: absolute;
+  top: calc(50% + 701px);
+  left: calc(50% - 172px);
+  border-radius: var(--br-xl) var(--br-xl) 0 0;
+  background-color: var(--color-aliceblue);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 720px;
+  height: 160px;
+}
+.community-child8 {
+  position: absolute;
+  top: calc(50% + 737px);
+  left: calc(50% - 97px);
+  border-radius: var(--br-6xl);
+  background-color: var(--color-palegreen);
+  width: 590px;
+  height: 61px;
+}
+.image-20-icon9,
+.image-77-icon {
+  position: absolute;
+  top: calc(50% + 821px);
+  left: calc(50% - 155px);
+  width: 687.5px;
+  height: 30.5px;
+  object-fit: cover;
+}
+.image-20-icon9 {
+  top: calc(50% + 748px);
+  left: calc(50% - 159px);
+  width: 40px;
+  height: 40px;
+}
+.what-do-you {
+  position: absolute;
+  top: calc(50% + 753px);
+  left: calc(50% - 73px);
+  font-size: var(--font-size-base);
+  display: inline-block;
+  font-family: var(--font-poppins);
+  width: 531px;
+  height: 35px;
+}
+.background6,
+.footer19 {
+  position: absolute;
+  left: 0;
+}
+.footer19 {
+  height: 107.35%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gainsboro);
+}
+.background6 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 529px;
+}
+.poltica-de-privacidad6 {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.poltica-de-privacidad-parent3 {
+  position: absolute;
+  height: 7.29%;
+  width: 45.79%;
+  top: 92.71%;
+  right: 0;
+  bottom: 0;
+  left: 54.21%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.iconlink6,
+.icontwitter6 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlink6 {
+  display: none;
+}
+.icontwitter-parent4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.divider6,
+.footer20 {
+  position: absolute;
+  height: 6.94%;
+  width: 9.36%;
+  top: 93.03%;
+  right: 90.64%;
+  bottom: 0.03%;
+  left: 0;
+}
+.divider6 {
+  height: 0.28%;
+  width: 99.53%;
+  top: 87.5%;
+  right: 0.33%;
+  bottom: 12.22%;
+  left: 0.14%;
+  background-color: var(--white);
+  opacity: 0.25;
+}
+.empresa13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.insights6,
+.sobre-nosotros6,
+.soluciones6 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.insights6,
+.soluciones6 {
+  top: 125px;
+}
+.insights6 {
+  top: 186px;
+}
+.empresa12 {
+  position: absolute;
+  top: 38.64px;
+  left: 362.42px;
+  width: 96px;
+  height: 207px;
+}
+.categoras13 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.categoras12,
+.competencias-digitales-parent4 {
+  position: absolute;
+  height: 71.83%;
+  width: 17.42%;
+  top: 0;
+  right: 30.73%;
+  bottom: 28.17%;
+  left: 51.85%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.competencias-digitales-parent4 {
+  height: 49.62%;
+  width: 16.11%;
+  top: 20.1%;
+  right: 8.31%;
+  bottom: 30.28%;
+  left: 75.58%;
+}
+.footer-9-dark6,
+.footer-ui6 {
+  position: absolute;
+  height: 67.24%;
+  width: 74.94%;
+  top: 14.32%;
+  right: 12.46%;
+  bottom: 18.44%;
+  left: 12.6%;
+}
+.footer-9-dark6 {
+  height: 106.87%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.footer18 {
+  position: absolute;
+  top: calc(50% + 977px);
+  left: calc(50% - 720px);
+  width: 1425px;
+  height: 401px;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  color: var(--white);
+  font-family: var(--b3-14);
+}
+.image-82-icon,
+.image-83-icon {
+  position: absolute;
+  top: calc(50% + 194px);
+  left: calc(50% - 140px);
+  width: 140px;
+  height: 19.43px;
+  object-fit: cover;
+}
+.image-83-icon {
+  top: calc(50% + 365px);
+  left: calc(50% + 78px);
+  width: 200px;
+  height: 200px;
+}
+.community8 {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2756px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

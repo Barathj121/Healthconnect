@@ -1,0 +1,15 @@
+input{
+    width: 17%;
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+button{
+    background-color: var(--color-lightseagreen-200);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 10px;
+}

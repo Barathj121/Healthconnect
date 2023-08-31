@@ -1,0 +1,799 @@
+.navbar-child8,
+.navbar-child9 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child8 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child9 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community5 {
+  margin: 0;
+}
+.community-forum4 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon4,
+.image-11-icon4 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon4 {
+  left: 243px;
+}
+.schedule-appointment4,
+.support-ngos4 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos4 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon5 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container4 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon5 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container4 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon4 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart4 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon5 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram4 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon5 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.loginsignup4 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon5 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience4,
+.rewards4 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience4 {
+  left: 1025px;
+}
+.image-19-icon5 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.navbar-child10 {
+  position: absolute;
+  top: 12px;
+  left: 7px;
+  background-color: var(--color-lightseagreen-100);
+  width: 146px;
+  height: 63px;
+  cursor: pointer;
+}
+.healthcare-low-resolution-logo-icon4,
+.image-9-icon4 {
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  object-fit: cover;
+}
+.image-9-icon4 {
+  top: 124px;
+  left: 40px;
+  width: 40px;
+  height: 40px;
+}
+.navbar4 {
+  position: absolute;
+  top: calc(50% - 1754.5px);
+  left: calc(50% - 787px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+}
+.background3,
+.footer10 {
+  position: absolute;
+  left: 0;
+}
+.footer10 {
+  height: 107.35%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gainsboro);
+}
+.background3 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 529px;
+}
+.poltica-de-privacidad3 {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.frame-div {
+  position: absolute;
+  height: 7.29%;
+  width: 45.79%;
+  top: 92.71%;
+  right: 0;
+  bottom: 0;
+  left: 54.21%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.iconlink3,
+.icontwitter3 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlink3 {
+  display: none;
+}
+.icontwitter-parent1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.divider3,
+.footer11 {
+  position: absolute;
+  height: 6.94%;
+  width: 9.36%;
+  top: 93.03%;
+  right: 90.64%;
+  bottom: 0.03%;
+  left: 0;
+}
+.divider3 {
+  height: 0.28%;
+  width: 99.53%;
+  top: 87.5%;
+  right: 0.33%;
+  bottom: 12.22%;
+  left: 0.14%;
+  background-color: var(--white);
+  opacity: 0.25;
+}
+.empresa7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.insights3,
+.sobre-nosotros3,
+.soluciones3 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.insights3,
+.soluciones3 {
+  top: 125px;
+}
+.insights3 {
+  top: 186px;
+}
+.empresa6 {
+  position: absolute;
+  top: 38.64px;
+  left: 362.42px;
+  width: 96px;
+  height: 207px;
+}
+.categoras7 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.categoras6,
+.competencias-digitales-parent1 {
+  position: absolute;
+  height: 71.83%;
+  width: 17.42%;
+  top: 0;
+  right: 30.73%;
+  bottom: 28.17%;
+  left: 51.85%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.competencias-digitales-parent1 {
+  height: 49.62%;
+  width: 16.11%;
+  top: 20.1%;
+  right: 8.31%;
+  bottom: 30.28%;
+  left: 75.58%;
+}
+.footer-9-dark3,
+.footer-ui3 {
+  position: absolute;
+  height: 67.24%;
+  width: 74.94%;
+  top: 14.32%;
+  right: 12.46%;
+  bottom: 18.44%;
+  left: 12.6%;
+}
+.footer-9-dark3 {
+  height: 106.87%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.footer9 {
+  position: absolute;
+  top: calc(50% + 1353.5px);
+  left: calc(50% - 726px);
+  width: 1425px;
+  height: 401px;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  color: var(--white);
+  font-family: var(--b3-14);
+}
+.e-prescription-management-child {
+  position: absolute;
+  top: calc(50% - 1240.5px);
+  left: calc(50% + 173px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+  width: 540px;
+  height: 259px;
+}
+.e-prescription-management-item {
+  position: absolute;
+  top: calc(50% - 561.5px);
+  left: calc(50% - 813px);
+  border-radius: var(--br-84xl) var(--br-84xl) 0 0;
+  background-color: var(--white);
+  width: 1525px;
+  height: 1725px;
+}
+.profile {
+  position: absolute;
+  top: 1102px;
+  left: 239px;
+  display: inline-block;
+  width: 177px;
+  height: 91px;
+}
+.clinical-record,
+.medications {
+  position: absolute;
+  top: calc(50% - 652.5px);
+  left: calc(50% - 536px);
+  display: inline-block;
+  width: 392px;
+  height: 28px;
+}
+.medications {
+  top: calc(50% - 650.5px);
+  left: calc(50% - 187px);
+  color: rgba(0, 0, 0, 0.43);
+  width: 345px;
+  height: 96px;
+}
+.medications1 {
+  top: calc(50% - 427.5px);
+  left: calc(50% - 277px);
+  font-size: var(--font-size-17xl);
+  color: rgba(0, 0, 0, 0.5);
+  width: 233px;
+  height: 65px;
+}
+.documents,
+.insurance,
+.medications1 {
+  position: absolute;
+  display: inline-block;
+}
+.documents {
+  top: calc(50% - 646.5px);
+  left: calc(50% + 122px);
+  width: 249px;
+  height: 25px;
+}
+.insurance {
+  top: 1105px;
+  left: 1352px;
+  width: 219px;
+  height: 22px;
+}
+.e-prescription-management-child1,
+.e-prescription-management-inner {
+  position: absolute;
+  top: 2094px;
+  left: 313px;
+  border-radius: var(--br-xl);
+  width: 270px;
+  height: 169px;
+  object-fit: cover;
+}
+.e-prescription-management-child1 {
+  top: 1438px;
+  left: 311px;
+  width: 266px;
+  height: 190px;
+}
+.e-prescription-management-child2,
+.e-prescription-management-child3 {
+  position: absolute;
+  top: 1770px;
+  left: 313px;
+  border-radius: var(--br-xl);
+  width: 270px;
+  height: 182px;
+  object-fit: cover;
+}
+.e-prescription-management-child3 {
+  top: 2441px;
+  left: 311px;
+  width: 266px;
+  height: 178px;
+}
+.vector-icon,
+.vector-icon1,
+.vector-icon2 {
+  position: absolute;
+  height: 1.27%;
+  width: 2.31%;
+  top: 37.21%;
+  right: 19.26%;
+  bottom: 61.52%;
+  left: 78.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1,
+.vector-icon2 {
+  height: 0.6%;
+  width: 0.16%;
+  top: 37.55%;
+  right: 20.34%;
+  bottom: 61.86%;
+  left: 79.51%;
+}
+.vector-icon2 {
+  height: 0.08%;
+  width: 1.04%;
+  top: 37.8%;
+  right: 19.92%;
+  bottom: 62.11%;
+  left: 79.04%;
+}
+.duration,
+.progress {
+  position: absolute;
+  top: calc(50% - 427.5px);
+  left: calc(50% + 33px);
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  color: rgba(0, 0, 0, 0.45);
+  width: 214px;
+  height: 62px;
+}
+.progress {
+  left: calc(50% + 263px);
+  color: rgba(0, 0, 0, 0.48);
+  width: 192px;
+  height: 33px;
+}
+.e-prescription-management-child4,
+.e-prescription-management-child5,
+.e-prescription-management-child6 {
+  position: absolute;
+  top: calc(50% - 200.5px);
+  left: calc(50% + 247px);
+  border-radius: var(--br-smi-5);
+  width: 219px;
+  height: 25px;
+}
+.e-prescription-management-child5,
+.e-prescription-management-child6 {
+  top: calc(50% + 93.5px);
+  width: 286px;
+}
+.e-prescription-management-child6 {
+  width: 144px;
+}
+.e-prescription-management-child10,
+.e-prescription-management-child7,
+.e-prescription-management-child8,
+.e-prescription-management-child9 {
+  position: absolute;
+  top: calc(50% + 411.5px);
+  left: calc(50% + 247px);
+  border-radius: var(--br-smi-5);
+  width: 286px;
+  height: 25px;
+}
+.e-prescription-management-child10,
+.e-prescription-management-child8,
+.e-prescription-management-child9 {
+  width: 57px;
+}
+.e-prescription-management-child10,
+.e-prescription-management-child9 {
+  top: calc(50% + 762.5px);
+  width: 286px;
+}
+.e-prescription-management-child10 {
+  width: 264px;
+}
+.e-prescription-management-child11 {
+  position: absolute;
+  top: calc(50% - 326.5px);
+  left: calc(50% + 39px);
+  border-radius: var(--br-xl);
+  width: 139px;
+  height: 1181px;
+  object-fit: cover;
+}
+.days {
+  position: absolute;
+  top: calc(50% + 693.5px);
+  left: calc(50% + 113px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  display: flex;
+  align-items: center;
+  width: 83px;
+  height: 36px;
+}
+.e-prescription-management-child12,
+.image-134-icon,
+.image-135-icon {
+  position: absolute;
+  top: calc(50% - 1202.5px);
+  left: calc(50% - 774px);
+  width: 863px;
+  height: 183px;
+}
+.e-prescription-management-child12 {
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gainsboro);
+}
+.image-134-icon,
+.image-135-icon {
+  object-fit: cover;
+}
+.image-135-icon {
+  top: calc(50% - 1240.5px);
+  left: calc(50% + 173px);
+  border-radius: var(--br-11xl);
+  width: 540px;
+  height: 259px;
+}
+.image-136-icon,
+.image-137-icon {
+  position: absolute;
+  top: calc(50% - 300.5px);
+  left: calc(50% - 303px);
+  width: 278px;
+  height: 158px;
+  object-fit: cover;
+}
+.image-137-icon {
+  top: calc(50% + 991.5px);
+  left: calc(50% - 335px);
+  width: 522px;
+  height: 114px;
+}
+.image-138-icon,
+.image-139-icon,
+.image-140-icon {
+  position: absolute;
+  top: calc(50% + 7.5px);
+  left: calc(50% - 307px);
+  width: 291px;
+  height: 221px;
+  object-fit: cover;
+}
+.image-139-icon,
+.image-140-icon {
+  top: calc(50% + 332.5px);
+  left: calc(50% - 300px);
+  width: 271px;
+  height: 184px;
+}
+.image-140-icon {
+  top: calc(50% + 699.5px);
+  left: calc(50% - 313px);
+  width: 284px;
+  height: 176px;
+}
+.days1,
+.days2,
+.days3,
+.start-date-18092022 {
+  position: absolute;
+  top: calc(50% - 266.5px);
+  left: calc(50% + 247px);
+  font-size: var(--font-size-5xl);
+  display: flex;
+  align-items: center;
+  width: 286px;
+  height: 60px;
+}
+.days1,
+.days2,
+.days3 {
+  top: calc(50% - 193.5px);
+  left: calc(50% + 136px);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-inter);
+  width: 83px;
+  height: 36px;
+}
+.days2,
+.days3 {
+  top: calc(50% + 100.5px);
+}
+.days3 {
+  top: calc(50% + 394.5px);
+}
+.start-date-2102022,
+.start-date-25102022,
+.start-date-30092022 {
+  position: absolute;
+  top: calc(50% + 48.5px);
+  left: calc(50% + 247px);
+  font-size: var(--font-size-5xl);
+  display: flex;
+  align-items: center;
+  width: 258px;
+  height: 33px;
+}
+.start-date-25102022,
+.start-date-30092022 {
+  top: calc(50% + 361.5px);
+  width: 282px;
+}
+.start-date-30092022 {
+  top: calc(50% + 708.5px);
+  left: calc(50% + 250px);
+  width: 283px;
+}
+.vector-icon3,
+.vector-icon4 {
+  position: absolute;
+  height: 1.59%;
+  width: 2.78%;
+  top: 79.9%;
+  right: 16.66%;
+  bottom: 18.51%;
+  left: 80.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon4 {
+  height: 0.46%;
+  width: 0.83%;
+  top: 80.48%;
+  right: 17.66%;
+  bottom: 19.07%;
+  left: 81.51%;
+}
+.search-bar-child2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background-color: var(--white);
+}
+.search-icon2 {
+  position: absolute;
+  top: 5px;
+  left: 179px;
+  width: 34px;
+  height: 34px;
+}
+.search-bar-child3 {
+  position: absolute;
+  top: 0;
+  left: 24px;
+  background-color: var(--white);
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 141px;
+  height: 52px;
+  mix-blend-mode: darken;
+}
+.cbe2,
+.pin-icon2 {
+  position: absolute;
+  top: 5px;
+  left: 24px;
+  width: 32px;
+  height: 42px;
+}
+.cbe2 {
+  top: 11px;
+  left: 94px;
+  display: inline-block;
+  font-weight: 800;
+  width: 47px;
+  height: 36px;
+}
+.search-bar2 {
+  position: absolute;
+  top: calc(50% - 1456.5px);
+  left: calc(50% - 410px);
+  border-radius: var(--br-xl);
+  background-color: var(--white);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 732px;
+  height: 52px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.alert-octagon-icon {
+  position: absolute;
+  top: 1828px;
+  left: 214px;
+  width: 80px;
+  height: 80px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.e-prescription-management {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 3509px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

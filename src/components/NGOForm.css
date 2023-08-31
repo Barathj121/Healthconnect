@@ -1,0 +1,225 @@
+.ngo-form-child {
+  position: absolute;
+  top: 74px;
+  left: 88px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 8px solid var(--color-palegreen);
+  box-sizing: border-box;
+  width: 241px;
+  height: 65px;
+}
+.shadox {
+  position: absolute;
+  top: 90px;
+  left: 93px;
+  display: inline-block;
+  font-weight: 800;
+  width: 236px;
+  height: 49px;
+}
+.ngo-form-item {
+  position: absolute;
+  top: calc(50% - 268px);
+  left: calc(50% - 121px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 10px solid var(--color-palegreen);
+  box-sizing: border-box;
+  width: 241px;
+  height: 65px;
+}
+.cbe-ngo1 {
+  margin: 0;
+}
+.cbe-ngo {
+  position: absolute;
+  top: calc(50% - 252px);
+  left: calc(50% - 116px);
+  display: inline-block;
+  font-weight: 800;
+  width: 236px;
+  height: 49px;
+}
+.ngo-form-inner {
+  position: absolute;
+  top: calc(50% - 268px);
+  left: calc(50% + 187px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 12px solid var(--color-palegreen);
+  box-sizing: border-box;
+  width: 241px;
+  height: 65px;
+}
+.coimbatore {
+  position: absolute;
+  top: calc(50% - 252px);
+  left: calc(50% + 192px);
+  display: inline-block;
+  font-weight: 800;
+  width: 236px;
+  height: 49px;
+}
+.ngo-form-child1 {
+  position: absolute;
+  top: 189px;
+  left: 88px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 12px solid var(--color-palegreen);
+  box-sizing: border-box;
+  width: 241px;
+  height: 65px;
+}
+.donate-pts,
+.no,
+.yes {
+  position: absolute;
+  display: inline-block;
+  font-weight: 800;
+}
+.donate-pts {
+  top: 205px;
+  left: 93px;
+  width: 236px;
+  height: 49px;
+}
+.no,
+.yes {
+  top: calc(50% - 137px);
+  left: calc(50% - 67px);
+  width: 134px;
+  height: 36px;
+}
+.no {
+  left: calc(50% + 219px);
+  width: 137px;
+  height: 44px;
+}
+.ngo-form-child2 {
+  top: 209px;
+  left: 444px;
+  border-radius: 50%;
+  background-color: #44b5ec;
+  border: 1px solid var(--color-black);
+  width: 22px;
+  height: 22px;
+}
+.ngo-form-child2,
+.ngo-form-child3,
+.ngo-form-child4 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.ngo-form-child3 {
+  top: calc(50% - 133px);
+  left: calc(50% + 230px);
+  border-radius: 50%;
+  background-color: #c6ecff;
+  border: 1px solid var(--color-black);
+  width: 22px;
+  height: 22px;
+}
+.ngo-form-child4 {
+  top: calc(50% - 38px);
+  left: calc(50% - 419px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 12px solid var(--color-palegreen);
+  width: 507px;
+  height: 65px;
+}
+.if-yes-enter {
+  position: absolute;
+  top: 323px;
+  left: 44px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 347px;
+  height: 49px;
+}
+.ngo-form-child5 {
+  position: absolute;
+  top: calc(50% + 77px);
+  left: calc(50% - 419px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 12px solid var(--color-palegreen);
+  box-sizing: border-box;
+  width: 507px;
+  height: 226px;
+}
+.enter-a-brief {
+  position: absolute;
+  top: calc(50% + 90px);
+  left: calc(50% - 402px);
+  font-size: var(--font-size-6xl);
+  color: var(--color-dimgray-200);
+  text-align: left;
+  display: inline-block;
+  width: 469px;
+  height: 57px;
+}
+.ngo-form-child6 {
+  position: absolute;
+  top: calc(50% + 79px);
+  left: calc(50% + 148px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-palegreen-100);
+  border: 12px solid var(--color-palegreen);
+  box-sizing: border-box;
+  width: 323px;
+  height: 65px;
+}
+.documentsadd-document-icon,
+.upload-docs-if {
+  position: absolute;
+  top: calc(50% + 90px);
+  left: calc(50% + 173px);
+  width: 46px;
+  height: 46px;
+}
+.upload-docs-if {
+  top: calc(50% + 100px);
+  left: calc(50% + 136px);
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-200);
+  display: inline-block;
+  width: 347px;
+  height: 49px;
+}
+.ngo-form-child7 {
+  position: absolute;
+  top: calc(50% + 215px);
+  left: calc(50% + 196px);
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gray-300);
+  width: 241px;
+  height: 65px;
+}
+.submit {
+  position: absolute;
+  top: calc(50% + 231px);
+  left: calc(50% + 201px);
+  display: inline-block;
+  font-weight: 800;
+  color: var(--color-aliceblue);
+  width: 236px;
+  height: 49px;
+}
+.ngo-form {
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-aliceblue);
+  width: 1024px;
+  height: 684px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,398 @@
+.calendar-popup-child {
+  position: absolute;
+  top: calc(50% - 164.5px);
+  left: calc(50% - 655px);
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1312px;
+  height: 1px;
+}
+.calendar-popup-inner,
+.calendar-popup-item {
+  position: absolute;
+  top: 37px;
+  left: 141px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-gainsboro-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 53px;
+  height: 53px;
+}
+.calendar-popup-inner {
+  left: 1210px;
+}
+.vector-icon6,
+.vector-icon7 {
+  position: absolute;
+  height: 3.52%;
+  width: 0.59%;
+  top: 14.07%;
+  right: 9.08%;
+  bottom: 82.41%;
+  left: 90.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon7 {
+  right: 87.4%;
+  left: 12.01%;
+}
+.today4 {
+  position: absolute;
+  top: 46px;
+  left: 345px;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 50px;
+  height: 23px;
+}
+.tomorrow {
+  top: calc(50% - 153px);
+  left: calc(50% - 43.5px);
+  letter-spacing: 0.04em;
+  width: 81px;
+}
+.no-slots-available,
+.slots-available,
+.slots-available1,
+.tomorrow,
+.tue-25-jul {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+}
+.tue-25-jul {
+  top: 46px;
+  left: 949px;
+  letter-spacing: 0.04em;
+  width: 84px;
+}
+.no-slots-available,
+.slots-available,
+.slots-available1 {
+  font-size: var(--font-size-2xs);
+  letter-spacing: 0.03em;
+  width: 108px;
+  height: 14px;
+}
+.no-slots-available {
+  top: 66px;
+  left: 316px;
+  color: #847070;
+}
+.slots-available,
+.slots-available1 {
+  color: var(--color-forestgreen);
+}
+.slots-available {
+  top: calc(50% - 133px);
+  left: calc(50% - 56.5px);
+}
+.slots-available1 {
+  top: 67px;
+  left: 937px;
+}
+.calendar-popup-child1 {
+  top: 87px;
+  left: 213px;
+  background-color: var(--color-snow);
+}
+.calendar-popup-child1,
+.calendar-popup-child2,
+.calendar-popup-child3 {
+  position: absolute;
+  border: 0.5px solid var(--color-black);
+  box-sizing: border-box;
+  width: 311px;
+  height: 5px;
+}
+.calendar-popup-child2 {
+  top: 87px;
+  left: 835px;
+  background-color: var(--color-snow);
+}
+.calendar-popup-child3 {
+  top: calc(50% - 112px);
+  left: calc(50% - 158.5px);
+  background-color: #6affc1;
+}
+.afternoon,
+.morning {
+  letter-spacing: -0.01em;
+}
+.morning {
+  position: absolute;
+  top: 121px;
+  left: 73px;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 62px;
+  height: 18px;
+}
+.afternoon {
+  top: 197px;
+  left: 76px;
+}
+.afternoon,
+.evening,
+.night {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 500;
+}
+.evening {
+  top: 275px;
+  left: 73px;
+  letter-spacing: -0.05em;
+  display: inline-block;
+  width: 58px;
+}
+.night {
+  top: 351px;
+  left: 76px;
+  letter-spacing: -0.01em;
+}
+.calendar-popup-child4,
+.calendar-popup-child5,
+.calendar-popup-child6,
+.calendar-popup-child7,
+.calendar-popup-child8 {
+  position: absolute;
+  top: 108px;
+  left: 262px;
+  background-color: var(--color-gainsboro-200);
+  width: 87px;
+  height: 30px;
+}
+.calendar-popup-child5,
+.calendar-popup-child6,
+.calendar-popup-child7,
+.calendar-popup-child8 {
+  top: 186px;
+}
+.calendar-popup-child6,
+.calendar-popup-child7,
+.calendar-popup-child8 {
+  top: 263px;
+}
+.calendar-popup-child7,
+.calendar-popup-child8 {
+  left: 421px;
+}
+.calendar-popup-child8 {
+  top: 340px;
+}
+.calendar-popup-child9 {
+  top: 340px;
+  left: 262px;
+}
+.calendar-popup-child10,
+.calendar-popup-child11,
+.calendar-popup-child12,
+.calendar-popup-child9 {
+  position: absolute;
+  background-color: var(--color-gainsboro-200);
+  width: 87px;
+  height: 30px;
+}
+.calendar-popup-child10 {
+  top: 186px;
+  left: 421px;
+}
+.calendar-popup-child11,
+.calendar-popup-child12 {
+  top: calc(50% - 13px);
+  left: calc(50% - 102.5px);
+}
+.calendar-popup-child12 {
+  top: calc(50% + 64px);
+}
+.calendar-popup-child13 {
+  top: 108px;
+  left: 421px;
+}
+.calendar-popup-child13,
+.calendar-popup-child14,
+.calendar-popup-child15,
+.calendar-popup-child16 {
+  position: absolute;
+  background-color: var(--color-gainsboro-200);
+  width: 87px;
+  height: 30px;
+}
+.calendar-popup-child14 {
+  top: calc(50% - 91px);
+  left: calc(50% - 102.5px);
+}
+.calendar-popup-child15,
+.calendar-popup-child16 {
+  top: 108px;
+  left: 739px;
+}
+.calendar-popup-child16 {
+  left: 896px;
+}
+.calendar-popup-child17,
+.calendar-popup-child18,
+.calendar-popup-child19,
+.calendar-popup-child20 {
+  position: absolute;
+  top: 263px;
+  left: 896px;
+  background-color: var(--color-gainsboro-200);
+  width: 87px;
+  height: 30px;
+}
+.calendar-popup-child18,
+.calendar-popup-child19,
+.calendar-popup-child20 {
+  left: 1055px;
+}
+.calendar-popup-child19,
+.calendar-popup-child20 {
+  top: 108px;
+}
+.calendar-popup-child20 {
+  top: 263px;
+  left: 739px;
+}
+.am {
+  position: absolute;
+  top: 111px;
+  left: 262px;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 87px;
+  height: 24px;
+}
+.am1 {
+  top: 111px;
+  left: 421px;
+}
+.am1,
+.am2,
+.am3,
+.am4,
+.am5,
+.pm1 {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 87px;
+  height: 24px;
+}
+.am2 {
+  top: calc(50% - 85px);
+  left: calc(50% - 102.5px);
+}
+.am3,
+.am4,
+.am5,
+.pm1 {
+  top: 114px;
+  left: 738px;
+}
+.am4,
+.am5,
+.pm1 {
+  top: 111px;
+  left: 896px;
+}
+.am5,
+.pm1 {
+  top: 114px;
+  left: 1055px;
+}
+.pm1 {
+  top: 189px;
+  left: 262px;
+}
+.pm2 {
+  top: 190px;
+  left: 421px;
+}
+.am6,
+.pm2,
+.pm3 {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 87px;
+  height: 24px;
+}
+.pm3 {
+  top: calc(50% - 9px);
+  left: calc(50% - 102.5px);
+}
+.am6 {
+  top: 266px;
+  left: 262px;
+}
+.pm4 {
+  top: 268px;
+  left: 421px;
+}
+.pm4,
+.pm5,
+.pm6,
+.pm7,
+.pm8,
+.pm9 {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 87px;
+  height: 24px;
+}
+.pm5 {
+  top: calc(50% + 69px);
+  left: calc(50% - 103.5px);
+}
+.pm6,
+.pm7,
+.pm8,
+.pm9 {
+  top: 268px;
+  left: 737px;
+}
+.pm7,
+.pm8,
+.pm9 {
+  top: 266px;
+  left: 896px;
+}
+.pm8,
+.pm9 {
+  top: 343px;
+  left: 262px;
+}
+.pm9 {
+  left: 421px;
+}
+.calendar-popup {
+  position: relative;
+  background-color: var(--white);
+  width: 1365px;
+  height: 398px;
+  overflow: hidden;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

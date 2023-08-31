@@ -1,0 +1,838 @@
+.appointment-scheduling-child {
+  position: absolute;
+  top: calc(50% - 726px);
+  left: calc(50% - 708px);
+  width: 1427px;
+  height: 1739px;
+}
+.chatbot-child5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-palegreen);
+}
+.image-13-icon7 {
+  position: absolute;
+  height: 64.71%;
+  width: 61.11%;
+  top: 17.65%;
+  right: 19.44%;
+  bottom: 17.65%;
+  left: 19.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.chatbot6 {
+  position: absolute;
+  top: calc(50% + 889px);
+  left: calc(50% + 580px);
+  width: 108px;
+  height: 102px;
+}
+.navbar-child32,
+.navbar-child33 {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.navbar-child32 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child33 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community-forum14 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon15,
+.image-11-icon14 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon15 {
+  left: 243px;
+}
+.schedule-appointment14,
+.support-ngos14 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos14 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon16 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container14 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon15 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container14 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon15 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart14 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon15 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram14 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon17 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.loginsignup14 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon16 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience15,
+.rewards14 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience15 {
+  left: 1025px;
+}
+.healthcare-low-resolution-logo-icon14,
+.image-19-icon16 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.healthcare-low-resolution-logo-icon14 {
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  cursor: pointer;
+}
+.navbar14 {
+  position: absolute;
+  top: calc(50% - 1023px);
+  left: calc(50% - 713px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-9-icon14 {
+  position: absolute;
+  top: calc(50% - 891px);
+  left: calc(50% - 682px);
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.appointment-scheduling-item {
+  position: absolute;
+  top: calc(50% - 726px);
+  left: calc(50% - 707px);
+  border-radius: var(--br-21xl) var(--br-21xl) 0 0;
+  background-color: #09c2a4;
+  width: 1424px;
+  height: 99px;
+}
+.appointment-scheduling-child1,
+.appointment-scheduling-inner {
+  position: absolute;
+  top: calc(50% - 672px);
+  left: calc(50% - 582px);
+  border-radius: var(--br-8xs);
+  background-color: var(--color-lightseagreen-300);
+  width: 204px;
+  height: 43px;
+}
+.appointment-scheduling-child1 {
+  top: calc(50% - 678px);
+  left: calc(50% - 360px);
+}
+.appointment-scheduling-child2,
+.appointment-scheduling-child3 {
+  position: absolute;
+  top: calc(50% - 677px);
+  border-radius: var(--br-8xs);
+  width: 204px;
+  height: 43px;
+}
+.appointment-scheduling-child2 {
+  left: calc(50% + 138px);
+  background-color: var(--color-lightseagreen-300);
+}
+.appointment-scheduling-child3 {
+  left: calc(50% - 138px);
+  background-color: rgba(12, 194, 164, 0.57);
+}
+.all-filters,
+.availability,
+.relevance,
+.sort-by,
+.video-consult {
+  position: absolute;
+  top: calc(50% - 672px);
+  left: calc(50% - 542px);
+  line-height: 150%;
+  font-weight: 500;
+  color: var(--color-lavenderblush);
+  display: inline-block;
+  width: 164px;
+}
+.all-filters,
+.availability,
+.relevance,
+.sort-by {
+  top: calc(50% - 671px);
+  left: calc(50% - 341px);
+}
+.all-filters,
+.relevance,
+.sort-by {
+  top: calc(50% - 670px);
+  left: calc(50% + 157px);
+}
+.all-filters,
+.sort-by {
+  left: calc(50% - 119px);
+}
+.sort-by {
+  top: calc(50% - 672px);
+  left: calc(50% + 63px);
+}
+.appointment-scheduling-child4 {
+  position: absolute;
+  top: calc(50% - 652px);
+  left: calc(50% - 575px);
+  border-radius: var(--br-11xs);
+  background-color: var(--color-gainsboro-500);
+  border: 1px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+.doctors-available-in {
+  position: absolute;
+  top: calc(50% - 576px);
+  left: calc(50% - 651px);
+  font-size: 34px;
+  line-height: 150%;
+  font-weight: 500;
+  color: #f8f4f4;
+}
+.book-appointments-with {
+  margin: 0;
+}
+.book-appointments-with-container,
+.dentist {
+  position: absolute;
+  line-height: 150%;
+  font-weight: 500;
+}
+.book-appointments-with-container {
+  top: calc(50% - 510px);
+  left: calc(50% - 620px);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 700px;
+  height: 29px;
+}
+.dentist {
+  top: calc(50% - 331px);
+  left: calc(50% - 407px);
+}
+.consultation-fee-at,
+.dentist1,
+.dentist2,
+.dentist3 {
+  position: absolute;
+  top: calc(50% + 38px);
+  left: calc(50% - 410px);
+  line-height: 150%;
+  font-weight: 500;
+}
+.consultation-fee-at,
+.dentist2,
+.dentist3 {
+  top: calc(50% + 398px);
+}
+.consultation-fee-at,
+.dentist3 {
+  top: calc(50% + 761px);
+  left: calc(50% - 407px);
+}
+.consultation-fee-at {
+  top: calc(50% - 237px);
+}
+.consultation-fee-at1,
+.consultation-fee-at2,
+.consultation-fee-at3,
+.patient-stories {
+  position: absolute;
+  top: calc(50% + 132px);
+  left: calc(50% - 410px);
+  line-height: 150%;
+  font-weight: 500;
+}
+.consultation-fee-at2,
+.consultation-fee-at3,
+.patient-stories {
+  top: calc(50% + 492px);
+}
+.consultation-fee-at3,
+.patient-stories {
+  top: calc(50% + 855px);
+  left: calc(50% - 407px);
+}
+.patient-stories {
+  top: calc(50% - 159px);
+  left: calc(50% - 307px);
+}
+.patient-stories1,
+.patient-stories2,
+.patient-stories3 {
+  position: absolute;
+  top: calc(50% + 210px);
+  left: calc(50% - 310px);
+  line-height: 150%;
+  font-weight: 500;
+}
+.patient-stories2,
+.patient-stories3 {
+  top: calc(50% + 570px);
+}
+.patient-stories3 {
+  top: calc(50% + 933px);
+  left: calc(50% - 307px);
+}
+.race-coursecoimbatore {
+  font-weight: 800;
+}
+.kongu-nadu-hospitals {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.race-coursecoimbatore-container {
+  position: absolute;
+  top: calc(50% - 277px);
+  left: calc(50% - 407px);
+  line-height: 150%;
+  font-size: var(--font-size-lgi);
+}
+.race-coursecoimbatore-container1,
+.race-coursecoimbatore-container2,
+.race-coursecoimbatore-container3 {
+  position: absolute;
+  top: calc(50% + 92px);
+  left: calc(50% - 410px);
+  line-height: 150%;
+  font-size: var(--font-size-lgi);
+}
+.race-coursecoimbatore-container2,
+.race-coursecoimbatore-container3 {
+  top: calc(50% + 452px);
+}
+.race-coursecoimbatore-container3 {
+  top: calc(50% + 815px);
+  left: calc(50% - 407px);
+}
+.years-of-overall,
+.years-of-overall1,
+.years-of-overall2,
+.years-of-overall3 {
+  position: absolute;
+  top: calc(50% - 301px);
+  left: calc(50% - 407px);
+  font-size: var(--font-size-base);
+  line-height: 150%;
+  font-weight: 500;
+}
+.years-of-overall1,
+.years-of-overall2,
+.years-of-overall3 {
+  top: calc(50% + 68px);
+  left: calc(50% - 410px);
+}
+.years-of-overall2,
+.years-of-overall3 {
+  top: calc(50% + 428px);
+}
+.years-of-overall3 {
+  top: calc(50% + 791px);
+  left: calc(50% - 407px);
+}
+.appointment-scheduling-child5,
+.appointment-scheduling-child6,
+.appointment-scheduling-child7,
+.line-div {
+  position: absolute;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 1289px;
+  height: 1px;
+}
+.line-div {
+  top: 583.5px;
+  left: 62.5px;
+}
+.appointment-scheduling-child5,
+.appointment-scheduling-child6,
+.appointment-scheduling-child7 {
+  top: calc(50% - 70.5px);
+  left: calc(50% - 657.5px);
+}
+.appointment-scheduling-child6,
+.appointment-scheduling-child7 {
+  top: calc(50% + 289.5px);
+}
+.appointment-scheduling-child7 {
+  top: calc(50% + 652.5px);
+  left: calc(50% - 654.5px);
+}
+.image-22-icon2,
+.image-23-icon2,
+.image-24-icon2,
+.image-25-icon1 {
+  position: absolute;
+  top: calc(50% - 379px);
+  left: calc(50% - 633px);
+  border-radius: var(--br-81xl);
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+}
+.image-23-icon2,
+.image-24-icon2,
+.image-25-icon1 {
+  top: calc(50% - 10px);
+  left: calc(50% - 636px);
+}
+.image-24-icon2,
+.image-25-icon1 {
+  top: calc(50% + 350px);
+}
+.image-25-icon1 {
+  top: calc(50% + 713px);
+  left: calc(50% - 633px);
+}
+.dr-t-sivasankari,
+.dr-t-sivasankari1,
+.dr-t-sivasankari2,
+.dr-t-sivasankari3 {
+  position: absolute;
+  top: calc(50% - 372px);
+  left: calc(50% - 407px);
+  font-size: var(--font-size-7xl);
+  letter-spacing: -0.04em;
+  line-height: 150%;
+  font-weight: 500;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 201px;
+  height: 31px;
+}
+.dr-t-sivasankari1,
+.dr-t-sivasankari2,
+.dr-t-sivasankari3 {
+  top: calc(50% - 3px);
+  left: calc(50% - 410px);
+}
+.dr-t-sivasankari2,
+.dr-t-sivasankari3 {
+  top: calc(50% + 357px);
+}
+.dr-t-sivasankari3 {
+  top: calc(50% + 720px);
+  left: calc(50% - 407px);
+}
+.calendar-icon,
+.calendar-icon1,
+.calendar-icon2,
+.calendar-icon3 {
+  position: absolute;
+  top: calc(50% - 345px);
+  left: calc(50% + 315px);
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.calendar-icon1,
+.calendar-icon2,
+.calendar-icon3 {
+  top: calc(50% + 24px);
+  left: calc(50% + 312px);
+}
+.calendar-icon2,
+.calendar-icon3 {
+  top: calc(50% + 384px);
+}
+.calendar-icon3 {
+  top: calc(50% + 747px);
+  left: calc(50% + 315px);
+}
+.available-today,
+.available-today1,
+.available-today2,
+.available-today3 {
+  position: absolute;
+  top: calc(50% - 350px);
+  left: calc(50% + 335px);
+  font-size: var(--font-size-base);
+  letter-spacing: -0.06em;
+  line-height: 150%;
+  font-weight: 500;
+  color: var(--color-gray-600);
+  display: inline-block;
+  width: 110px;
+  height: 21px;
+}
+.available-today1,
+.available-today2,
+.available-today3 {
+  top: calc(50% + 19px);
+  left: calc(50% + 332px);
+}
+.available-today2,
+.available-today3 {
+  top: calc(50% + 379px);
+}
+.available-today3 {
+  top: calc(50% + 742px);
+  left: calc(50% + 335px);
+}
+.appointment-scheduling-child10,
+.appointment-scheduling-child8,
+.appointment-scheduling-child9 {
+  position: absolute;
+  top: calc(50% + 57px);
+  left: calc(50% + 264px);
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  width: 212px;
+  height: 41px;
+}
+.appointment-scheduling-child10,
+.appointment-scheduling-child9 {
+  top: calc(50% + 417px);
+}
+.appointment-scheduling-child10 {
+  top: calc(50% + 780px);
+  left: calc(50% + 267px);
+}
+.appointment-scheduling-child11,
+.appointment-scheduling-child12 {
+  background-color: var(--color-gainsboro-500);
+  width: 212px;
+  height: 41px;
+}
+.appointment-scheduling-child11 {
+  position: absolute;
+  top: calc(50% - 263px);
+  left: calc(50% + 267px);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+  cursor: pointer;
+}
+.appointment-scheduling-child12 {
+  top: calc(50% + 466px);
+  left: calc(50% + 264px);
+}
+.appointment-scheduling-child12,
+.appointment-scheduling-child13,
+.component-child1 {
+  position: absolute;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-900);
+  box-sizing: border-box;
+}
+.appointment-scheduling-child13 {
+  top: calc(50% + 829px);
+  left: calc(50% + 267px);
+  background-color: var(--color-gainsboro-500);
+  width: 212px;
+  height: 41px;
+}
+.component-child1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--color-gray-300);
+}
+.book-appointment,
+.no-booking-fee {
+  position: absolute;
+  top: 3px;
+  left: 46px;
+  letter-spacing: -0.06em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+}
+.no-booking-fee {
+  top: 22px;
+  font-size: var(--font-size-xs);
+  text-align: center;
+}
+.rectangle-parent23 {
+  position: absolute;
+  top: calc(50% - 312px);
+  left: calc(50% + 267px);
+  width: 212px;
+  height: 41px;
+  cursor: pointer;
+  font-size: var(--font-size-mini);
+}
+.book-appointment1,
+.book-appointment2,
+.book-appointment3 {
+  position: absolute;
+  top: calc(50% + 60px);
+  left: calc(50% + 310px);
+  font-size: var(--font-size-mini);
+  letter-spacing: -0.06em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+}
+.book-appointment2,
+.book-appointment3 {
+  top: calc(50% + 420px);
+}
+.book-appointment3 {
+  top: calc(50% + 783px);
+  left: calc(50% + 313px);
+}
+.video-consult1,
+.video-consult2 {
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-700);
+}
+.video-consult1 {
+  position: absolute;
+  top: calc(50% - 254px);
+  left: calc(50% + 328px);
+  letter-spacing: -0.06em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+}
+.video-consult2 {
+  top: calc(50% + 475px);
+  left: calc(50% + 325px);
+}
+.no-booking-fee1,
+.no-booking-fee2,
+.no-booking-fee3,
+.video-consult2,
+.video-consult3 {
+  position: absolute;
+  letter-spacing: -0.06em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+}
+.video-consult3 {
+  top: calc(50% + 838px);
+  left: calc(50% + 328px);
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-700);
+}
+.no-booking-fee1,
+.no-booking-fee2,
+.no-booking-fee3 {
+  top: calc(50% + 79px);
+  left: calc(50% + 310px);
+  font-size: var(--font-size-xs);
+  text-align: center;
+}
+.no-booking-fee2,
+.no-booking-fee3 {
+  top: calc(50% + 439px);
+}
+.no-booking-fee3 {
+  top: calc(50% + 802px);
+  left: calc(50% + 313px);
+}
+.group-child20 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 43px);
+  border-radius: var(--br-2xs);
+  background-color: var(--color-seagreen);
+  width: 86px;
+  height: 32px;
+}
+.div1 {
+  position: absolute;
+  top: calc(50% - 12px);
+  left: calc(50% - 13px);
+  letter-spacing: -0.06em;
+  line-height: 150%;
+  font-weight: 500;
+  display: inline-block;
+  width: 45px;
+  height: 24px;
+}
+.vector-icon8 {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 28px);
+  width: 15.94px;
+  height: 16.17px;
+}
+.rectangle-parent24,
+.rectangle-parent25,
+.rectangle-parent26,
+.rectangle-parent27 {
+  position: absolute;
+  top: calc(50% - 160px);
+  left: calc(50% - 407px);
+  width: 86px;
+  height: 32px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-500);
+}
+.rectangle-parent25,
+.rectangle-parent26,
+.rectangle-parent27 {
+  top: calc(50% + 209px);
+  left: calc(50% - 410px);
+}
+.rectangle-parent26,
+.rectangle-parent27 {
+  top: calc(50% + 569px);
+}
+.rectangle-parent27 {
+  top: calc(50% + 932px);
+  left: calc(50% - 407px);
+}
+.appointment-scheduling {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 2046px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  font-family: var(--font-inter);
+}

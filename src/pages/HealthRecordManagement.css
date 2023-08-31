@@ -1,0 +1,750 @@
+.navbar-child1,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+  border-radius: 0 0 var(--br-11xl) var(--br-11xl);
+}
+.rectangle-div {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-lightseagreen-100);
+}
+.navbar-child1 {
+  top: 86px;
+  background-color: var(--color-lightblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-400);
+  box-sizing: border-box;
+  width: 1425px;
+  height: 91px;
+}
+.community1 {
+  margin: 0;
+}
+.community-forum1 {
+  position: absolute;
+  top: 126px;
+  left: 85px;
+  display: inline-block;
+  width: 111px;
+  height: 36px;
+}
+.image-10-icon1,
+.image-11-icon1 {
+  position: absolute;
+  top: 124px;
+  left: 447px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.image-10-icon1 {
+  left: 243px;
+}
+.schedule-appointment1,
+.support-ngos1 {
+  position: absolute;
+  top: 125px;
+  left: 290px;
+  display: inline-block;
+  width: 115px;
+  height: 37px;
+}
+.support-ngos1 {
+  left: 494px;
+  width: 87px;
+  height: 35px;
+}
+.image-12-icon1 {
+  position: absolute;
+  top: 122px;
+  left: 624px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.personal-health-tracker-container1 {
+  position: absolute;
+  top: 124px;
+  left: 671px;
+  display: inline-block;
+  width: 131px;
+  height: 32px;
+}
+.image-15-icon1 {
+  position: absolute;
+  top: 122px;
+  left: 841px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.your-health-record-container1 {
+  position: absolute;
+  top: 124px;
+  left: 888px;
+  display: inline-block;
+  width: 106px;
+  height: 35px;
+}
+.image-16-icon1 {
+  position: absolute;
+  top: 122px;
+  left: 1034px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.health-cart1 {
+  position: absolute;
+  top: 127px;
+  left: 1074px;
+  display: inline-block;
+  width: 118px;
+  height: 32px;
+}
+.image-17-icon1 {
+  position: absolute;
+  top: 124px;
+  left: 1206px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.wellness-reward-prgram1 {
+  position: absolute;
+  top: 125px;
+  left: 1253px;
+  display: inline-block;
+  width: 145px;
+  height: 34px;
+}
+.image-20-icon1 {
+  position: absolute;
+  top: 9px;
+  left: 1317px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.loginsignup1 {
+  position: absolute;
+  top: 59px;
+  left: 1289px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.image-18-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 1048px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.experience1,
+.rewards1 {
+  position: absolute;
+  top: 57px;
+  left: 1166px;
+  display: inline-block;
+  color: var(--white);
+  width: 136px;
+  height: 27px;
+}
+.experience1 {
+  left: 1025px;
+}
+.image-19-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 1178px;
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+}
+.navbar-child2 {
+  position: absolute;
+  top: 12px;
+  left: 7px;
+  background-color: var(--color-lightseagreen-100);
+  width: 146px;
+  height: 63px;
+  cursor: pointer;
+}
+.healthcare-low-resolution-logo-icon1,
+.image-9-icon1 {
+  position: absolute;
+  top: 12px;
+  left: 13px;
+  width: 125px;
+  height: 58.38px;
+  object-fit: cover;
+}
+.image-9-icon1 {
+  top: 124px;
+  left: 40px;
+  width: 40px;
+  height: 40px;
+}
+.navbar1 {
+  position: absolute;
+  top: calc(50% - 1759.5px);
+  left: calc(50% - 712px);
+  width: 1425px;
+  height: 172px;
+  font-size: var(--font-size-base);
+}
+.background1,
+.footer4 {
+  position: absolute;
+  left: 0;
+}
+.footer4 {
+  height: 107.35%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-gainsboro);
+}
+.background1 {
+  top: 0;
+  background-color: var(--color-gray-300);
+  width: 1440px;
+  height: 529px;
+}
+.poltica-de-privacidad1 {
+  position: relative;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.poltica-de-privacidad-group {
+  position: absolute;
+  height: 7.29%;
+  width: 45.79%;
+  top: 92.71%;
+  right: 0;
+  bottom: 0;
+  left: 54.21%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.iconlink1,
+.icontwitter1 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconlink1 {
+  display: none;
+}
+.icontwitter-group {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+}
+.divider1,
+.footer5 {
+  position: absolute;
+  height: 6.94%;
+  width: 9.36%;
+  top: 93.03%;
+  right: 90.64%;
+  bottom: 0.03%;
+  left: 0;
+}
+.divider1 {
+  height: 0.28%;
+  width: 99.53%;
+  top: 87.5%;
+  right: 0.33%;
+  bottom: 12.22%;
+  left: 0.14%;
+  background-color: var(--white);
+  opacity: 0.25;
+}
+.empresa3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.insights1,
+.sobre-nosotros1,
+.soluciones1 {
+  position: absolute;
+  top: 64px;
+  left: 0;
+  line-height: 150%;
+  opacity: 0.7;
+}
+.insights1,
+.soluciones1 {
+  top: 125px;
+}
+.insights1 {
+  top: 186px;
+}
+.empresa2 {
+  position: absolute;
+  top: 38.64px;
+  left: 362.42px;
+  width: 96px;
+  height: 207px;
+}
+.categoras3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 150%;
+}
+.categoras2,
+.competencias-digitales-group {
+  position: absolute;
+  height: 71.83%;
+  width: 17.42%;
+  top: 0;
+  right: 30.73%;
+  bottom: 28.17%;
+  left: 51.85%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.competencias-digitales-group {
+  height: 49.62%;
+  width: 16.11%;
+  top: 20.1%;
+  right: 8.31%;
+  bottom: 30.28%;
+  left: 75.58%;
+}
+.footer-9-dark1,
+.footer-ui1 {
+  position: absolute;
+  height: 67.24%;
+  width: 74.94%;
+  top: 14.32%;
+  right: 12.46%;
+  bottom: 18.44%;
+  left: 12.6%;
+}
+.footer-9-dark1 {
+  height: 106.87%;
+  width: 100%;
+  top: -7.35%;
+  right: 0;
+  bottom: 0.47%;
+  left: 0;
+  background-color: var(--white);
+  overflow: hidden;
+}
+.footer3 {
+  position: absolute;
+  top: 3108px;
+  left: 248px;
+  width: 1425px;
+  height: 401px;
+  font-size: var(--body-2-regular-14-20-01px-size);
+  color: var(--white);
+  font-family: var(--font-larsseit);
+}
+.health-record-management-child,
+.health-record-management-item {
+  position: absolute;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1921px;
+  height: 1px;
+}
+.health-record-management-child {
+  top: calc(50% - 1443px);
+  left: calc(50% - 960.5px);
+}
+.health-record-management-item {
+  top: 3001.5px;
+  left: -0.5px;
+}
+.health-record-management-inner {
+  position: absolute;
+  top: calc(50% - 1434.5px);
+  left: calc(50% - 946px);
+  border-radius: var(--br-31xl);
+  background-color: var(--color-gray-500);
+  width: 518px;
+  height: 2661px;
+}
+.overview,
+.progress-plan {
+  position: absolute;
+  top: calc(50% - 1398.5px);
+  font-size: var(--font-size-21xl);
+  line-height: 150%;
+  display: inline-block;
+}
+.overview {
+  left: calc(50% - 364px);
+  color: #ff9090;
+  width: 212px;
+  height: 62px;
+}
+.progress-plan {
+  left: calc(50% - 110px);
+  width: 339px;
+  height: 44px;
+}
+.health-record-management-child1 {
+  position: absolute;
+  top: calc(50% - 1394.5px);
+  left: calc(50% + 263px);
+  background-color: var(--color-aliceblue);
+  width: 171px;
+  height: 58px;
+  cursor: pointer;
+}
+.documents,
+.visits1 {
+  position: absolute;
+  top: calc(50% - 1398.5px);
+  left: calc(50% + 282px);
+  font-size: var(--font-size-21xl);
+  line-height: 150%;
+  display: inline-block;
+  width: 123px;
+  height: 51px;
+}
+.documents {
+  left: calc(50% + 462px);
+  width: 255px;
+  height: 34px;
+}
+.image-144-icon,
+.image-146-icon {
+  position: absolute;
+  top: calc(50% - 211.5px);
+  left: calc(50% - 810px);
+  width: 368px;
+  height: 1250px;
+  object-fit: cover;
+}
+.image-146-icon {
+  top: calc(50% - 1191.5px);
+  left: calc(50% + 161px);
+  width: 624px;
+  height: 392px;
+}
+.image-147-icon,
+.image-148-icon,
+.image-149-icon {
+  position: absolute;
+  top: calc(50% - 433.5px);
+  left: calc(50% + 49px);
+  width: 433px;
+  height: 581px;
+  object-fit: cover;
+}
+.image-148-icon,
+.image-149-icon {
+  top: calc(50% + 833.5px);
+  left: calc(50% - 367px);
+  width: 662px;
+  height: 333px;
+}
+.image-149-icon {
+  top: calc(50% + 276.5px);
+  width: 1266px;
+  height: 371px;
+}
+.health-record-management-child2 {
+  position: absolute;
+  top: 802px;
+  left: 273px;
+  background-color: var(--white);
+  width: 207px;
+  height: 51px;
+}
+.download-record {
+  position: absolute;
+  top: 815px;
+  left: 305px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 168px;
+  height: 32px;
+}
+.health-record-management-child3 {
+  position: absolute;
+  top: 809px;
+  left: 201px;
+  background-color: #fefeff;
+  width: 30px;
+  height: 30px;
+}
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 0.89%;
+  width: 1.62%;
+  top: 23.04%;
+  right: 87.89%;
+  bottom: 76.07%;
+  left: 10.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  height: 0.84%;
+  width: 1.54%;
+  top: 23.1%;
+  right: 93.89%;
+  bottom: 76.05%;
+  left: 4.57%;
+}
+.jennifer-parkins {
+  top: 684px;
+  left: 160px;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-inter);
+  width: 225px;
+  height: 31px;
+}
+.date-of-birth,
+.female,
+.general-info,
+.jennifer-parkins {
+  position: absolute;
+  display: inline-block;
+}
+.female {
+  top: 737px;
+  left: 242px;
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+  font-family: var(--font-inter);
+  width: 101px;
+  height: 27px;
+}
+.date-of-birth,
+.general-info {
+  left: 51px;
+}
+.general-info {
+  top: 891px;
+  font-size: var(--font-size-9xl);
+  width: 219px;
+  height: 42px;
+}
+.date-of-birth {
+  top: 979px;
+  font-weight: 300;
+  width: 459px;
+  height: 35px;
+}
+.location-budapest-hungary {
+  top: 1045px;
+  left: 50px;
+  font-weight: 300;
+  width: 443px;
+  height: 35px;
+}
+.disorders,
+.id,
+.location-budapest-hungary {
+  position: absolute;
+  display: inline-block;
+}
+.id {
+  top: 1113px;
+  left: 52px;
+  font-weight: 300;
+  width: 30px;
+  height: 35px;
+}
+.disorders {
+  top: 1204px;
+  left: 51px;
+  font-size: var(--font-size-9xl);
+  width: 219px;
+  height: 42px;
+}
+.cognitive-dementia-alzheimer,
+.physical-arthritis,
+.speech-dysarthria-apraxia {
+  position: absolute;
+  top: 1292px;
+  left: 51px;
+  font-weight: 300;
+  display: inline-block;
+  width: 452px;
+  height: 35px;
+}
+.cognitive-dementia-alzheimer,
+.physical-arthritis {
+  top: 1358px;
+  left: 50px;
+  width: 460px;
+}
+.physical-arthritis {
+  top: 1426px;
+  left: 52px;
+  width: 275px;
+}
+.neurological,
+.neurological-wrapper {
+  position: absolute;
+  width: 171px;
+  height: 30px;
+}
+.neurological {
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+}
+.neurological-wrapper {
+  top: 1211px;
+  left: 347px;
+  font-size: var(--font-size-3xl);
+}
+.copy-icon,
+.div {
+  position: absolute;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-weight: 300;
+  display: inline-block;
+  width: 232px;
+  height: 29px;
+}
+.copy-icon {
+  top: 8px;
+  left: 220px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.parent {
+  position: absolute;
+  top: 1119px;
+  left: 248px;
+  width: 244px;
+  height: 32px;
+}
+.recent-diagnoses {
+  position: absolute;
+  top: 602px;
+  left: 640px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 328px;
+  height: 40px;
+}
+.image-160-icon {
+  position: absolute;
+  top: 695px;
+  left: 622px;
+  width: 136px;
+  height: 107px;
+  object-fit: cover;
+}
+.month-ago,
+.stroke {
+  position: absolute;
+  top: 700px;
+  left: 804px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 150px;
+  height: 42px;
+}
+.month-ago {
+  top: 753px;
+  left: 806px;
+  font-size: var(--font-size-9xl);
+  width: 212px;
+  height: 32px;
+}
+.image-161-icon,
+.image-162-icon {
+  position: absolute;
+  top: 855px;
+  left: 628px;
+  width: 123px;
+  height: 117px;
+  object-fit: cover;
+}
+.image-162-icon {
+  top: 1025px;
+  left: 624px;
+  width: 127px;
+  height: 97px;
+}
+.covid-19,
+.months-ago,
+.months-ago1,
+.pneumonia {
+  position: absolute;
+  top: 859px;
+  left: 804px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 199px;
+  height: 28px;
+}
+.covid-19,
+.months-ago,
+.months-ago1 {
+  top: 1022px;
+}
+.months-ago,
+.months-ago1 {
+  top: 921px;
+  left: 806px;
+  font-size: var(--font-size-9xl);
+  width: 195px;
+  height: 32px;
+}
+.months-ago1 {
+  top: 1077px;
+  width: 237px;
+}
+.health-record-management {
+  position: relative;
+  background-color: var(--color-aliceblue);
+  width: 100%;
+  height: 3509px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-7xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
